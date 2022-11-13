@@ -1,0 +1,872 @@
+{
+  "version": 1,
+  "lastQuestionId": 1950,
+  "name": "mathematics",
+  "imageBaseRef": "https://storage.googleapis.com/qubics-main-images",
+  "questFiles": [
+    {
+      "id": "class9+chapter5",
+      "metadata": {
+        "enddate": "2021-01-09",
+        "publish": "yes",
+        "title": "L1-Number System",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class9+chapter6",
+      "metadata": {
+        "enddate": "2021-01-09",
+        "publish": "yes",
+        "title": "L2-Polynomials",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class6+chapter1",
+      "metadata": {
+        "enddate": "2021-02-08",
+        "publish": "yes",
+        "title": "L1-Knowing Our Numbers",
+        "tags": "forum, mathematics"
+      }
+    },
+    {
+      "id": "class6+chapter2",
+      "metadata": {
+        "enddate": "2021-02-08",
+        "publish": "yes",
+        "title": "L2-Whole Numbers",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class6+chapter3",
+      "metadata": {
+        "enddate": "2021-02-08",
+        "publish": "yes",
+        "title": "L3-Playing With Numbers",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class6+chapter4",
+      "metadata": {
+        "enddate": "2021-02-08",
+        "publish": "yes",
+        "title": "L4-Basic Geometrical Ideas",
+        "tags": "forum"
+      }
+    },
+    {
+      "id": "class6+chapter5",
+      "metadata": {
+        "enddate": "2021-02-08",
+        "publish": "yes",
+        "title": "L5-Understanding Elementary Shape",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class6+chapter6",
+      "metadata": {
+        "enddate": "2021-02-08",
+        "publish": "yes",
+        "title": "L6-Integers",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class6+chapter7",
+      "metadata": {
+        "enddate": "2021-02-08",
+        "publish": "yes",
+        "title": "L7-Fractions",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class6+chapter8",
+      "metadata": {
+        "enddate": "2021-02-08",
+        "publish": "yes",
+        "title": "L8-Decimals",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class6+chapter9",
+      "metadata": {
+        "enddate": "2021-02-08",
+        "publish": "yes",
+        "title": "L9-Data Handling",
+        "tags": "forum, mathematics"
+      }
+    },
+    {
+      "id": "class6+chapter10",
+      "metadata": {
+        "enddate": "2021-02-08",
+        "publish": "yes",
+        "title": "L10-Mensuration",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class6+chapter11",
+      "metadata": {
+        "enddate": "2021-02-08",
+        "publish": "yes",
+        "title": "L11-Algebra",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class6+chapter12",
+      "metadata": {
+        "enddate": "2021-02-08",
+        "publish": "yes",
+        "title": "L12-Ratio and Proportion",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class6+chapter13",
+      "metadata": {
+        "enddate": "2021-02-08",
+        "publish": "yes",
+        "title": "L13-Symmetry",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class6+chapter14",
+      "metadata": {
+        "enddate": "2021-02-08",
+        "publish": "yes",
+        "title": "L14-Practical Geometry",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class6+chapter15",
+      "metadata": {
+        "enddate": "2021-02-08",
+        "publish": "yes",
+        "title": ""
+      }
+    },
+    {
+      "id": "class7+chapter1",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L1-Integers",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class7+chapter2",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L2-Fractions and Decimals",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class7+chapter3",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L3-Data Handling",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class7+chapter4",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L4-Simple Equations",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class7+chapter5",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L5-Lines and Angles",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class7+chapter6",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L6-The Triangles and its Properties",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class7+chapter7",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L7-Congruence of Triangles",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class7+chapter8",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L8-Comparing Quantities",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class7+chapter9",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L9-Rational Numbers",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class7+chapter10",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L10-Practical Geometry",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class7+chapter11",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L11-Perimeter and Area",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class7+chapter12",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L12-Algebraic Expressions",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class7+chapter13",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L13-Exponents and Powers",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class7+chapter14",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L14-Symmetry",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class7+chapter15",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L15-Visualising Solid Shapes",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class8+chapter1",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L1-Rational Numbers",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class8+chapter2",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L2-Linear Equations in One Variable",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class8+chapter3",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L3-Understanding Quadrilaterals",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class8+chapter4",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L4-Practical Geometry",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class8+chapter5",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L5-Data Handling",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class8+chapter6",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L6-Squares and Square Roots",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class8+chapter7",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L7-Cubes and Cube Roots",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class8+chapter8",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L8-Comparing Quantities",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class8+chapter9",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L9-Algebraic Expressions and Identities",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class8+chapter10",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L10-Visualising Solid Shapes",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class8+chapter11",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L11-Mensuration",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class8+chapter12",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L12-Exponents and Powers",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class8+chapter13",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L13-Direct and Indirect proportions",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class8+chapter14",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L14-Factorisation",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class8+chapter15",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L15-Introduction to Graphs",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class8+chapter16",
+      "metadata": {
+        "enddate": "2021-02-10",
+        "publish": "yes",
+        "title": "L16-Playing with Numbers",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "summary.class9+chapter1",
+      "metadata": {
+        "enddate": "2021-02-12",
+        "publish": "yes",
+        "title": "L6-Lines And Angles",
+        "tags": "forum, mathematics"
+      }
+    },
+    {
+      "id": "summary.class9+chapter2",
+      "metadata": {
+        "enddate": "2021-02-12",
+        "publish": "yes",
+        "title": "L7-Triangles",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class9+chapter3",
+      "metadata": {
+        "enddate": "2021-11-09",
+        "publish": "yes",
+        "title": "chapter3- Model Test Paper-1"
+      }
+    },
+    {
+      "id": "summary.class9+chapter3",
+      "metadata": {
+        "enddate": "2021-02-12",
+        "publish": "yes",
+        "title": "L8-Quadrilaterals",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "summary.class9+chapter4",
+      "metadata": {
+        "enddate": "2021-02-12",
+        "publish": "yes",
+        "title": "L9-Areas of Parallelograms and Triangles",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "summary.class9+chapter5",
+      "metadata": {
+        "enddate": "2021-02-12",
+        "publish": "yes",
+        "title": "L10-Circles",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "summary.class9+chapter6",
+      "metadata": {
+        "enddate": "2021-02-12",
+        "publish": "yes",
+        "title": "L11-Constructions",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "summary.class9+chapter7",
+      "metadata": {
+        "enddate": "2021-02-12",
+        "publish": "yes",
+        "title": "L12-Heron\u0027s Formula",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "summary.class9+chapter8",
+      "metadata": {
+        "enddate": "2021-02-12",
+        "publish": "yes",
+        "title": "L13-Surface Areas and Volumes",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "summary.class9+chapter9",
+      "metadata": {
+        "enddate": "2021-03-14",
+        "publish": "yes",
+        "title": "Test Paper-1 (80 Marks)",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class9+chapter7",
+      "metadata": {
+        "enddate": "2021-03-17",
+        "publish": "yes",
+        "title": "L3-Coordinate Geometry",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class9+chapter8",
+      "metadata": {
+        "enddate": "2021-03-18",
+        "publish": "yes",
+        "title": "L4-Linear Equation in two variables",
+        "tags": "forum, mathematics"
+      }
+    },
+    {
+      "id": "class9+chapter9",
+      "metadata": {
+        "enddate": "2021-03-18",
+        "publish": "yes",
+        "title": "L5-Introduction to Euclid Geometry",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class9+chapter10",
+      "metadata": {
+        "enddate": "2021-03-19",
+        "publish": "yes",
+        "title": "L6-Lines and Angles",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class9+chapter11",
+      "metadata": {
+        "enddate": "2021-03-19",
+        "publish": "yes",
+        "title": "L7-Triangles",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class9+chapter12",
+      "metadata": {
+        "enddate": "2021-03-19",
+        "publish": "yes",
+        "title": "L8-Quadrilaterals",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class9+chapter13",
+      "metadata": {
+        "enddate": "2021-03-19",
+        "publish": "yes",
+        "title": "L9-Areas of parallelograms and triangles",
+        "tags": "forum, mathematics"
+      }
+    },
+    {
+      "id": "class9+chapter14",
+      "metadata": {
+        "enddate": "2021-03-19",
+        "publish": "yes",
+        "title": "L10-Circles",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class9+chapter15",
+      "metadata": {
+        "enddate": "2021-03-24",
+        "publish": "yes",
+        "title": "L11-Constructions",
+        "tags": "forum, mathematics"
+      }
+    },
+    {
+      "id": "class9+chapter16",
+      "metadata": {
+        "enddate": "2021-03-24",
+        "publish": "yes",
+        "title": "L12-Heron\u0027s Formula",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class9+chapter4",
+      "metadata": {
+        "enddate": "2021-01-04",
+        "publish": "yes",
+        "title": "L13-SURFACE AREAS AND VOLUMES",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class9+chapter17",
+      "metadata": {
+        "enddate": "2021-03-24",
+        "publish": "yes",
+        "title": "L14-Statistics",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class9+chapter18",
+      "metadata": {
+        "enddate": "2021-03-24",
+        "publish": "yes",
+        "title": "L15-Probability",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class9+chapter1",
+      "metadata": {
+        "enddate": "2021-10-27",
+        "publish": "yes",
+        "title": "chapter1- Polynomials"
+      }
+    },
+    {
+      "id": "class9+chapter2",
+      "metadata": {
+        "enddate": "2021-10-27",
+        "publish": "yes",
+        "title": "Polynomials Extra Questions",
+        "tags": "mathematics"
+      }
+    },
+    {
+      "id": "class10+chapter1",
+      "metadata": {
+        "enddate": "2021-03-27",
+        "publish": "yes",
+        "title": "REAL NUMBERS",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class10+chapter2",
+      "metadata": {
+        "enddate": "2021-03-27",
+        "publish": "yes",
+        "title": "Polynomials",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class10+chapter3",
+      "metadata": {
+        "enddate": "2021-03-27",
+        "publish": "yes",
+        "title": "Pair of Linear Equations in Two Variables",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class10+chapter4",
+      "metadata": {
+        "enddate": "2021-03-27",
+        "publish": "yes",
+        "title": "Quadratic Equations",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class10+chapter5",
+      "metadata": {
+        "enddate": "2021-03-27",
+        "publish": "yes",
+        "title": "Arithmetic Progressions",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class10+chapter6",
+      "metadata": {
+        "enddate": "2021-03-27",
+        "publish": "yes",
+        "title": "Triangles",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class10+chapter7",
+      "metadata": {
+        "enddate": "2021-03-27",
+        "publish": "yes",
+        "title": "Coordinate Geometry",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class10+chapter8",
+      "metadata": {
+        "enddate": "2021-03-27",
+        "publish": "yes",
+        "title": "Introduction to Trigonometry",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class10+chapter9",
+      "metadata": {
+        "enddate": "2021-03-27",
+        "publish": "yes",
+        "title": "Some Applications of Trigonometry",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class10+chapter10",
+      "metadata": {
+        "enddate": "2021-03-27",
+        "publish": "yes",
+        "title": "Circles",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class10+chapter11",
+      "metadata": {
+        "enddate": "2021-03-27",
+        "publish": "yes",
+        "title": "Constructions",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class10+chapter12",
+      "metadata": {
+        "enddate": "2021-03-27",
+        "publish": "yes",
+        "title": "Areas Related to Circles",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class10+chapter13",
+      "metadata": {
+        "enddate": "2021-03-27",
+        "publish": "yes",
+        "title": "Surface Areas and Volumes",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class10+chapter14",
+      "metadata": {
+        "enddate": "2021-03-27",
+        "publish": "yes",
+        "title": "Statistics",
+        "tags": "forum,mathematics"
+      }
+    },
+    {
+      "id": "class10+chapter15",
+      "metadata": {
+        "enddate": "2021-03-27",
+        "publish": "yes",
+        "title": "Probability",
+        "tags": "forum,mathematics"
+      }
+    }
+  ],
+  "answers": [
+    "class9+chapter1_a",
+    "class9+chapter4_a",
+    "class6+chapter1_a",
+    "class6+chapter2_a",
+    "class6+chapter4_a",
+    "class6+chapter5_a",
+    "class6+chapter10_a",
+    "class6+chapter11_a",
+    "class6+chapter12_a",
+    "class6+chapter14_a",
+    "class6+chapter3_a",
+    "summary.class9+chapter5_a",
+    "class6+chapter6_a",
+    "summary.class9+chapter3_a",
+    "class6+chapter7_a",
+    "class6+chapter8_a",
+    "class6+chapter9_a",
+    "class6+chapter13_a",
+    "class7+chapter1_a",
+    "class7+chapter2_a",
+    "class7+chapter3_a",
+    "class7+chapter4_a",
+    "class7+chapter5_a",
+    "class7+chapter6_a",
+    "class7+chapter7_a",
+    "class7+chapter8_a",
+    "class7+chapter9_a",
+    "class7+chapter11_a",
+    "class7+chapter13_a",
+    "class7+chapter10_a",
+    "class8+chapter16_a",
+    "class8+chapter14_a",
+    "class8+chapter13_a",
+    "class8+chapter12_a",
+    "class8+chapter11_a",
+    "class8+chapter10_a",
+    "class8+chapter7_a",
+    "class8+chapter1_a",
+    "class8+chapter2_a",
+    "class8+chapter3_a",
+    "class8+chapter5_a",
+    "class8+chapter6_a",
+    "class8+chapter8_a",
+    "class8+chapter9_a",
+    "class9+chapter5_a",
+    "class9+chapter6_a",
+    "class9+chapter8_a",
+    "class9+chapter7_a",
+    "class9+chapter9_a",
+    "class9+chapter13_a",
+    "class9+chapter11_a",
+    "class9+chapter12_a",
+    "class9+chapter10_a",
+    "class9+chapter14_a",
+    "class9+chapter17_a",
+    "class9+chapter18_a",
+    "class9+chapter16_a",
+    "class10+chapter1_a",
+    "class10+chapter2_a",
+    "class10+chapter3_a",
+    "class10+chapter4_a",
+    "class10+chapter5_a",
+    "class10+chapter6_a",
+    "class10+chapter7_a",
+    "class10+chapter8_a",
+    "class10+chapter9_a",
+    "class10+chapter10_a",
+    "class10+chapter12_a",
+    "class10+chapter11_a",
+    "class10+chapter13_a",
+    "class10+chapter15_a",
+    "class10+chapter14_a"
+  ],
+  "quizes": []
+}
