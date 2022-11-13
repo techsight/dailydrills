@@ -1,0 +1,74 @@
+[
+  {
+    "qid": 1,
+    "solutions": [
+      {
+        "id": 1,
+        "steps": [
+          "$p\\left(x\\right)\\ \u003d\\ a_0+a_1x+a_2x^2+...\\ +a_nx^n$",
+          "where n is non negative integer.",
+          "valid values of n for a polynomial: 0,1,2,3,4 ...",
+          "invalid values of n could be -1, -2, -3 etc.. $\\frac{1}{2},\\frac{3}{4},\\ 2.5\\ ,\\ 1.5\\ $etc."
+        ],
+        "metadata": {
+          "title": "Generic form of polynomial",
+          "user": "questrics@gmail.com",
+          "timestamp": "27-9-2020 06:24:21 PM",
+          "ans-count": "0"
+        }
+      },
+      {
+        "id": 2,
+        "steps": [
+          "1. Is $2x^3+x-5$ is a valid polynomial?",
+          "",
+          "Ans.  Yes , it is  a valid polynomial because it can be written in the form of $-5+1.x+0.x^2+2.x^3$ . Since all exponents are integer and positive (n\u003e\u003d0) hence it is a valid polynomial.-----",
+          "-----",
+          "2. Is $2x^3+\\sqrt{x}+10$ is valid polynomial ?",
+          "Ans. No, it is not a valid polynomial because if you write this in standard form $10+1.x^{\\frac{1}{2}}+2.x^3$ one of the exponents is $\\frac{1}{2}$ which is not an integer.",
+          "Hence it is not a valid polynomial.",
+          "-----",
+          "Is $\\frac{2}{x}+3\\ $ a valid polynomial?",
+          "Ans. No, it is not a valid polynomial. After converting it to standard polynomial form $3+2x^{-1}\\ $we get one of exponent which is -1. It is an integer but it is negative. A polynomial \u0027s exponents are non negative integer.",
+          "Hence it is an invalid polynomial."
+        ],
+        "metadata": {
+          "title": "Examples",
+          "user": "questrics@gmail.com",
+          "timestamp": "27-9-2020 06:41:56 PM",
+          "ans-count": "0"
+        }
+      }
+    ]
+  },
+  {
+    "qid": 2,
+    "solutions": [
+      {
+        "id": 1,
+        "steps": [
+          "The degree of a polynomial is maximum exponent present in the given \n polynomial.",
+          "e.g. in $4x^3+x-7$ the maximum exponent present is 3 in $4x^3$ so the degree of polynomials \u003d $3$"
+        ],
+        "metadata": {
+          "title": "Degree of polynomial",
+          "user": "questrics@gmail.com",
+          "timestamp": "27-9-2020 06:57:04 PM",
+          "ans-count": "0"
+        }
+      },
+      {
+        "id": 2,
+        "steps": [
+          "A binomial is polynomial which has exactly two terms. e.g. $x+3$, $x^{20}+2x$, $x^{50}-x^3$"
+        ],
+        "metadata": {
+          "title": "Binomials",
+          "user": "questrics@gmail.com",
+          "timestamp": "27-9-2020 07:00:12 PM",
+          "ans-count": "0"
+        }
+      }
+    ]
+  }
+]
