@@ -1,1 +1,19 @@
-
+{
+  "version": 1,
+  "lastQuestionId": 0,
+  "name": "school.qubics",
+  "imageBaseRef": "https://storage.googleapis.com/qubics-resources",
+  "questFiles": [
+    {
+      "id": "class11+chapter1",
+      "metadata": {
+        "enddate": "2022-12-21",
+        "publish": "yes",
+        "title": "Straight Lines",
+        "tags": "mathematics"
+      }
+    }
+  ],
+  "answers": [],
+  "quizes": []
+}
