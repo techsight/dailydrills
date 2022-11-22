@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": 1,
+    "type": "subjective",
+    "question": [
+      "Slope",
+      "image:qstore/school.qubics/class11/school.qubics_class11_chapter1_RvNfpjp-slope.png",
+      "$m\\ \u003d\\ \\tan\\ \\theta$",
+      "$m\u003d\\frac{y_2-y_1}{x_2-x_1}$"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class11",
+      "chapter": "chapter1",
+      "user": "anonymous",
+      "timestamp": "22-11-2022 09:11:32 AM",
+      "ans-count": "0",
+      "title": "",
+      "quiz": ""
+    }
+  }
+]
