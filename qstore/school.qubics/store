@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastQuestionId": 0,
+  "lastQuestionId": 6,
   "name": "school.qubics",
   "imageBaseRef": "https://storage.googleapis.com/qubics-resources",
   "questFiles": [
@@ -12,8 +12,19 @@
         "title": "Straight Lines",
         "tags": "mathematics"
       }
+    },
+    {
+      "id": "class11+chapter2",
+      "metadata": {
+        "enddate": "2023-12-22",
+        "publish": "yes",
+        "title": "Wave and oscillations",
+        "tags": "physics"
+      }
     }
   ],
-  "answers": [],
+  "answers": [
+    "class11+chapter2_a"
+  ],
   "quizes": []
 }
