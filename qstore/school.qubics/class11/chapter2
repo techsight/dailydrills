@@ -1,0 +1,22 @@
+[
+  {
+    "id": 6,
+    "type": "subjective",
+    "question": [
+      "f(t)\u003d$A\\ \\cos\\left(\\omega t\\right)$",
+      "image:qstore/school.qubics/class11/school.qubics_class11_chapter2_xJSuIKV-sin.png"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class11",
+      "chapter": "chapter2",
+      "user": "anonymous",
+      "timestamp": "23-11-2022 08:25:14 PM",
+      "ans-count": "1",
+      "title": "",
+      "quiz": "",
+      "imageBaseRef": "https://storage.googleapis.com/qubics-resources"
+    }
+  }
+]
