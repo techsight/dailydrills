@@ -3,10 +3,8 @@
     "id": 1,
     "type": "subjective",
     "question": [
-      "Slope",
-      "image:qstore/school.qubics/class11/school.qubics_class11_chapter1_RvNfpjp-slope.png",
-      "$m\\ \u003d\\ \\tan\\ \\theta$",
-      "$m\u003d\\frac{y_2-y_1}{x_2-x_1}$"
+      "Center of mass",
+      "image:qstore/school.qubics/class11/school.qubics_class11_chapter1_Yd1vVpI-center_of_mass_xy.jpg"
     ],
     "tags": {},
     "metadata": {
@@ -14,21 +12,19 @@
       "standard": "class11",
       "chapter": "chapter1",
       "user": "anonymous",
-      "timestamp": "22-11-2022 09:11:32 AM",
-      "ans-count": "0",
+      "timestamp": "25-11-2022 06:36:01 AM",
+      "ans-count": "1",
       "title": "",
       "quiz": "",
-      "imageBaseRef": "https://storage.googleapis.com/qubics-resources",
-      "publish": "yes"
+      "imageBaseRef": "https://storage.googleapis.com/qubics-resources"
     }
   },
   {
     "id": 2,
     "type": "subjective",
     "question": [
-      "Point -Slope form",
-      "image:qstore/school.qubics/class11/school.qubics_class11_chapter1_OIdMYdn-point_slope.png",
-      "$y-y_1\\ \u003d\\ m\\left(x\\ -x_1\\right)$"
+      "title:Center of mass (position vector)",
+      "image:qstore/school.qubics/class11/school.qubics_class11_chapter1_beZbIQl-center_of_mass_r.png"
     ],
     "tags": {},
     "metadata": {
@@ -36,69 +32,9 @@
       "standard": "class11",
       "chapter": "chapter1",
       "user": "anonymous",
-      "timestamp": "22-11-2022 07:28:45 PM",
-      "ans-count": "0",
-      "title": "",
-      "quiz": "",
-      "imageBaseRef": "https://storage.googleapis.com/qubics-resources"
-    }
-  },
-  {
-    "id": 3,
-    "type": "subjective",
-    "question": [
-      "Point - Point form",
-      "$y-y_1\u003d\\frac{y_2-y_1}{x_2-x_1}\\left(x-x_1\\right)$"
-    ],
-    "tags": {},
-    "metadata": {
-      "subject": "school.qubics",
-      "standard": "class11",
-      "chapter": "chapter1",
-      "user": "anonymous",
-      "timestamp": "22-11-2022 07:31:06 PM",
-      "ans-count": "0",
-      "title": "",
-      "quiz": "",
-      "imageBaseRef": "https://storage.googleapis.com/qubics-resources"
-    }
-  },
-  {
-    "id": 4,
-    "type": "subjective",
-    "question": [
-      "Intercept - Slope form",
-      "$y\u003dmx+c$"
-    ],
-    "tags": {},
-    "metadata": {
-      "subject": "school.qubics",
-      "standard": "class11",
-      "chapter": "chapter1",
-      "user": "anonymous",
-      "timestamp": "22-11-2022 07:33:31 PM",
-      "ans-count": "0",
-      "title": "",
-      "quiz": "",
-      "imageBaseRef": "https://storage.googleapis.com/qubics-resources"
-    }
-  },
-  {
-    "id": 5,
-    "type": "subjective",
-    "question": [
-      "Intercept - Intercept form",
-      "$\\frac{x}{a}+\\frac{y}{b}\u003d1$"
-    ],
-    "tags": {},
-    "metadata": {
-      "subject": "school.qubics",
-      "standard": "class11",
-      "chapter": "chapter1",
-      "user": "anonymous",
-      "timestamp": "22-11-2022 07:35:06 PM",
-      "ans-count": "0",
-      "title": "",
+      "timestamp": "25-11-2022 07:22:01 AM",
+      "ans-count": "1",
+      "title": "Center of mass (position vector)",
       "quiz": "",
       "imageBaseRef": "https://storage.googleapis.com/qubics-resources"
     }

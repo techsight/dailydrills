@@ -1,0 +1,39 @@
+[
+  {
+    "qid": 1,
+    "solutions": [
+      {
+        "id": 1,
+        "steps": [
+          "$X\u003d\\frac{m_1x_1+m_2x_2}{m_1+m_2}$"
+        ],
+        "metadata": {
+          "title": "",
+          "subject": "school.qubics",
+          "user": "anonymous",
+          "timestamp": "25-11-2022 07:13:40 AM",
+          "ans-count": "0"
+        }
+      }
+    ]
+  },
+  {
+    "qid": 2,
+    "solutions": [
+      {
+        "id": 1,
+        "steps": [
+          "We have 2 particles of mass $m_1$ and $m_2$ . Let there position vectors be $r_1$ and $r_2$ respectively.",
+          "Position vector of system $R\\ \u003d\\ \\frac{m_1r_1+m_2r_2}{m_1+m_2}$"
+        ],
+        "metadata": {
+          "title": "",
+          "subject": "school.qubics",
+          "user": "anonymous",
+          "timestamp": "25-11-2022 07:32:29 AM",
+          "ans-count": "0"
+        }
+      }
+    ]
+  }
+]
