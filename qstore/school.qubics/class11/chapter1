@@ -13,7 +13,7 @@
       "chapter": "chapter1",
       "user": "anonymous",
       "timestamp": "25-11-2022 06:36:01 AM",
-      "ans-count": "1",
+      "ans-count": "3",
       "title": "",
       "quiz": "",
       "imageBaseRef": "https://storage.googleapis.com/qubics-resources"
@@ -37,6 +37,25 @@
       "title": "Center of mass (position vector)",
       "quiz": "",
       "imageBaseRef": "https://storage.googleapis.com/qubics-resources"
+    }
+  },
+  {
+    "id": 3,
+    "type": "subjective",
+    "question": [
+      "COM different shaped objects ",
+      "image:qstore/school.qubics/class11/school.qubics_class11_chapter1_j6eRYuz-COM_shapes.png"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class11",
+      "chapter": "chapter1",
+      "user": "anonymous",
+      "timestamp": "25-11-2022 11:30:09 AM",
+      "ans-count": "0",
+      "title": "",
+      "quiz": ""
     }
   }
 ]
