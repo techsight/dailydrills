@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastQuestionId": 2,
+  "lastQuestionId": 5,
   "name": "school.qubics",
   "imageBaseRef": "https://storage.googleapis.com/qubics-resources",
   "questFiles": [
@@ -18,7 +18,8 @@
       "metadata": {
         "enddate": "2022-12-25",
         "publish": "yes",
-        "title": ""
+        "title": "Vectors",
+        "tags": "physics"
       }
     },
     {
@@ -31,6 +32,38 @@
     },
     {
       "id": "class11+chapter4",
+      "metadata": {
+        "enddate": "2022-12-25",
+        "publish": "yes",
+        "title": ""
+      }
+    },
+    {
+      "id": "class7+chapter1",
+      "metadata": {
+        "enddate": "2022-12-25",
+        "publish": "yes",
+        "title": ""
+      }
+    },
+    {
+      "id": "class7+chapter2",
+      "metadata": {
+        "enddate": "2022-12-25",
+        "publish": "yes",
+        "title": ""
+      }
+    },
+    {
+      "id": "class7+chapter3",
+      "metadata": {
+        "enddate": "2022-12-25",
+        "publish": "yes",
+        "title": ""
+      }
+    },
+    {
+      "id": "class7+chapter4",
       "metadata": {
         "enddate": "2022-12-25",
         "publish": "yes",
