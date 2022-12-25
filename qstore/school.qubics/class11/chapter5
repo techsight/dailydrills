@@ -4,10 +4,10 @@
     "type": "subjective",
     "question": [
       "$Sin\\ \\left(A+B\\right)\\ \u003d\\ ?$",
-      "(A) $\\sin\\ A\\ \\cos\\ B\\ -\\cos A\\ \\sin\\ B$",
-      "(B) $\\cos\\ A\\ \\cos\\ B\\ +\\ \\sin\\ A\\ \\sin\\ B$",
-      "(C) $\\sin\\ A\\ \\cos\\ B\\ +\\ \\cos\\ A\\ \\sin\\ B$",
-      "(D) $\\cos\\ A\\ \\cos\\ B\\ -\\ \\sin\\ A\\ \\sin\\ B$"
+      "choice:(A) $\\sin\\ A\\ \\cos\\ B\\ -\\cos A\\ \\sin\\ B$",
+      "choice:(B) $\\cos\\ A\\ \\cos\\ B\\ +\\ \\sin\\ A\\ \\sin\\ B$",
+      "choice:(C) $\\sin\\ A\\ \\cos\\ B\\ +\\ \\cos\\ A\\ \\sin\\ B$",
+      "choice:(D) $\\cos\\ A\\ \\cos\\ B\\ -\\ \\sin\\ A\\ \\sin\\ B$"
     ],
     "tags": {},
     "metadata": {
