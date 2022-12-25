@@ -22,7 +22,7 @@
     "id": 5,
     "type": "subjective",
     "question": [
-      "Vector product",
+      "Product of two vectors",
       "image:qstore/school.qubics/class11/school.qubics_class11_chapter2_RySbX0v-vector-product.png"
     ],
     "tags": {},
@@ -42,7 +42,7 @@
     "id": 6,
     "type": "subjective",
     "question": [
-      "Vector product",
+      "Cross product or Vector product",
       "image:qstore/school.qubics/class11/school.qubics_class11_chapter2_ls7io4y-vector-cross-product.png"
     ],
     "tags": {},
@@ -62,7 +62,7 @@
     "id": 7,
     "type": "subjective",
     "question": [
-      "Vector product",
+      "Cross product of unit vectors",
       "image:qstore/school.qubics/class11/school.qubics_class11_chapter2_ARGGuWZ-cross-product-unit-vector.png"
     ],
     "tags": {},

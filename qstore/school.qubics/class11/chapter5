@@ -1,0 +1,25 @@
+[
+  {
+    "id": 10,
+    "type": "subjective",
+    "question": [
+      "$Sin\\ \\left(A+B\\right)\\ \u003d\\ ?$",
+      "(A) $\\sin\\ A\\ \\cos\\ B\\ -\\cos A\\ \\sin\\ B$",
+      "(B) $\\cos\\ A\\ \\cos\\ B\\ +\\ \\sin\\ A\\ \\sin\\ B$",
+      "(C) $\\sin\\ A\\ \\cos\\ B\\ +\\ \\cos\\ A\\ \\sin\\ B$",
+      "(D) $\\cos\\ A\\ \\cos\\ B\\ -\\ \\sin\\ A\\ \\sin\\ B$"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class11",
+      "chapter": "chapter5",
+      "user": "anonymous",
+      "timestamp": "25-12-2022 02:30:16 PM",
+      "ans-count": "0",
+      "title": "",
+      "quiz": "1",
+      "imageBaseRef": "https://storage.googleapis.com/qubics-resources"
+    }
+  }
+]

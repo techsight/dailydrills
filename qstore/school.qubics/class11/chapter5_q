@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "type": "quiz",
+    "question": [
+      "$2\\cos\\ A\\ cos\\ B\\ \u003d$",
+      "choice:(A) $\\cos\\ A\\ +\\ \\cos\\ B$",
+      "choice:(B) $\\cos\\ \\left(A+B\\right)+\\cos\\ \\left(A-B\\right)$",
+      "choice:(C) $\\cos\\ \\left(A+B\\right)-\\cos\\left(A-B\\right)$",
+      "choice:(D) $\\sin\\ \\left(A+B\\right)\\ +\\ \\sin\\ \\left(A-B\\right)$",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class11",
+      "chapter": "chapter5",
+      "timestamp": "25-12-2022 02:44:39 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  }
+]
