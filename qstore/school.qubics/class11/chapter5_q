@@ -25,7 +25,6 @@
     "type": "quiz",
     "question": [
       "$2\\ \\cos\\ A\\ \\sin\\ B\\ \u003d$",
-      "deleted:choice:(A) $\\sin\\ \\left(A+B\\right)\\ -\\sin\\ \\left(A-B\\right)$",
       "choice:(A) $\\sin\\ \\left(A+B\\right)\\ -\\ \\sin\\ \\left(A-B\\right)$",
       "choice:(B) $\\cos\\ \\left(A+B\\right)\\ -\\ \\sin\\ \\left(A-B\\right)$",
       "choice:(C) $\\sin\\ \\left(A-B\\right)\\ -\\ \\sin\\ \\left(A+B\\right)$",
