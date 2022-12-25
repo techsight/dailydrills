@@ -19,5 +19,49 @@
       "ans-count": "0",
       "title": ""
     }
+  },
+  {
+    "id": 2,
+    "type": "quiz",
+    "question": [
+      "$2\\ \\cos\\ A\\ \\sin\\ B\\ \u003d$",
+      "deleted:choice:(A) $\\sin\\ \\left(A+B\\right)\\ -\\sin\\ \\left(A-B\\right)$",
+      "choice:(A) $\\sin\\ \\left(A+B\\right)\\ -\\ \\sin\\ \\left(A-B\\right)$",
+      "choice:(B) $\\cos\\ \\left(A+B\\right)\\ -\\ \\sin\\ \\left(A-B\\right)$",
+      "choice:(C) $\\sin\\ \\left(A-B\\right)\\ -\\ \\sin\\ \\left(A+B\\right)$",
+      "choice:(D) None",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class11",
+      "chapter": "chapter5",
+      "timestamp": "25-12-2022 08:22:04 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  },
+  {
+    "id": 3,
+    "type": "quiz",
+    "question": [
+      "$\\sin\\ 4x\\ +\\ \\sin\\ 2x\\ \u003d$",
+      "choice:(A) $2\\ \\sin\\ 4x\\ \\cos\\ 2x$",
+      "choice:(B) $2\\ \\sin\\ 3x\\ \\cos\\ x$",
+      "choice:(C) $2\\ \\sin\\ 3x\\ \\sin\\ 2x$",
+      "choice:(D) $2\\ \\sin\\ 6x\\ \\sin\\ 2x$",
+      "deleted:(E) ",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class11",
+      "chapter": "chapter5",
+      "timestamp": "25-12-2022 08:25:54 PM",
+      "ans-count": "0",
+      "title": ""
+    }
   }
 ]
