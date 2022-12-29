@@ -3,12 +3,16 @@
     "id": 10,
     "type": "subjective",
     "question": [
-      "$Sin\\ \\left(A+B\\right)\\ \u003d\\ ?$",
-      "choice:(A) $\\sin\\ A\\ \\cos\\ B\\ -\\cos A\\ \\sin\\ B$",
-      "choice:(B) $\\cos\\ A\\ \\cos\\ B\\ +\\ \\sin\\ A\\ \\sin\\ B$",
-      "choice:(C) $\\sin\\ A\\ \\cos\\ B\\ +\\ \\cos\\ A\\ \\sin\\ B$",
-      "choice:(D) $\\cos\\ A\\ \\cos\\ B\\ -\\ \\sin\\ A\\ \\sin\\ B$",
-      "answer:C"
+      "$sin\\ \\left(A+B\\right)\\ \u003d $$\\sin A\\ \\cos\\ B\\ +\\ \\cos A\\ \\sin\\ B$",
+      "$\\sin\\ \\left(A-B\\right)\u003d\\sin\\ A\\ \\cos\\ B\\ -\\ \\cos\\ A\\ \\sin\\ B$",
+      "$\\cos\\ \\left(A+B\\right)\\ \u003d\\ \\cos\\ A\\ \\cos\\ B\\ +\\ \\sin\\ A\\ \\sin\\ B$",
+      "$\\cos\\ \\left(A-B\\right)\\ \u003d\\ \\cos\\ A\\ \\cos\\ B\\ -\\ \\sin\\ A\\ \\sin\\ B$",
+      "-----------------------------------------------------------",
+      "$\\sin\\ C\\ +\\ \\sin\\ D\\ \u003d\\ 2\\ \\sin\\ \\frac{C+D}{2}\\cos\\ \\frac{C-D}{2}$",
+      "$\\sin\\ C\\ -\\ \\sin\\ D\\ \u003d\\ 2\\ \\cos\\ \\frac{C+D}{2}\\sin\\ \\frac{C-D}{2}$",
+      "$\\cos\\ C\\ +\\ \\cos\\ D\\ \u003d\\ 2\\ \\cos\\ \\frac{C+D}{2}\\cos\\ \\frac{C-D}{2}$",
+      "$\\cos\\ C\\ -\\ \\cos\\ D\\ \u003d\\ -\\ 2\\ \\sin\\ \\frac{C+D}{2}\\sin\\ \\frac{C-D}{2}$",
+      "------------------------------------------------------------"
     ],
     "tags": {},
     "metadata": {
@@ -19,7 +23,7 @@
       "timestamp": "25-12-2022 02:30:16 PM",
       "ans-count": "0",
       "title": "",
-      "quiz": "1",
+      "quiz": "1,2,3",
       "imageBaseRef": "https://storage.googleapis.com/qubics-resources"
     }
   }
