@@ -41,5 +41,24 @@
       "title": "",
       "quiz": ""
     }
+  },
+    {
+    "id": 11,
+    "type": "subjective",
+    "question": [
+      "Sin 2A = 2sin A cos A",
+      ""
+        ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class11",
+      "chapter": "chapter5",
+      "user": "anonymous",
+      "timestamp": "29-12-2022 12:20:49 PM",
+      "ans-count": "0",
+      "title": "",
+      "quiz": ""
+    }
   }
 ]
