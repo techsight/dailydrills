@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "type": "subjective",
+    "question": [
+      "Basics recap"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "mathematics",
+      "standard": "class9",
+      "chapter": "chapter1",
+      "user": "questrics@gmail.com",
+      "timestamp": "27-9-2020 04:20:23 PM",
+      "ans-count": "2",
+      "title": "",
+      "quiz": "",
+      "imageBaseRef": "https://storage.googleapis.com/qubics-main-images"
+    }
+  },
+  {
+    "id": 2,
+    "type": "subjective",
+    "question": [
+      "title:Degree of polynomial and Binomials",
+      "What is degree of $4x^3+x-7$ ? Give example of a binomial."
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "mathematics",
+      "standard": "class9",
+      "chapter": "chapter1",
+      "user": "questrics@gmail.com",
+      "timestamp": "27-9-2020 06:49:07 PM",
+      "ans-count": "2",
+      "title": "Degree of polynomial and Binomials",
+      "quiz": "",
+      "imageBaseRef": "https://storage.googleapis.com/qubics-main-images"
+    }
+  },
+  {
+    "id": 3,
+    "type": "subjective",
+    "question": [
+      "Remainder when a polynomial is divided another polynomial",
+      "--What is remainder when  $2x^3+5x+8\\ $ is divided by $x^2+2x$ ?"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "mathematics",
+      "standard": "class9",
+      "chapter": "chapter1",
+      "user": "questrics@gmail.com",
+      "timestamp": "27-9-2020 07:03:46 PM",
+      "ans-count": "0",
+      "title": "",
+      "quiz": "",
+      "imageBaseRef": "https://storage.googleapis.com/qubics-main-images"
+    }
+  },
+  {
+    "id": 91,
+    "type": "subjective",
+    "question": [
+      "New Question"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "mathematics",
+      "standard": "class9",
+      "chapter": "chapter1",
+      "user": "questrics@gmail.com",
+      "timestamp": "08-12-2020 08:23:07 AM",
+      "ans-count": "0",
+      "title": "",
+      "quiz": ""
+    }
+  }
+]

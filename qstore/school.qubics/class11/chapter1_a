@@ -1,0 +1,67 @@
+[
+  {
+    "qid": 1,
+    "solutions": [
+      {
+        "id": 1,
+        "steps": [
+          "$X\u003d\\frac{m_1x_1+m_2x_2}{m_1+m_2}$"
+        ],
+        "metadata": {
+          "title": "",
+          "subject": "school.qubics",
+          "user": "anonymous",
+          "timestamp": "25-11-2022 07:13:40 AM",
+          "ans-count": "0"
+        }
+      },
+      {
+        "id": 2,
+        "steps": [
+          "title: Calculate center of mass of below system of particles.",
+          "image:qstore/school.qubics/class11/school.qubics_class11_chapter1_gQBC6dF-cm_example_basic.png"
+        ],
+        "metadata": {
+          "title": " Calculate center of mass of below system of particles.",
+          "subject": "school.qubics",
+          "user": "anonymous",
+          "timestamp": "25-11-2022 08:26:05 AM",
+          "ans-count": "0"
+        }
+      },
+      {
+        "id": 3,
+        "steps": [
+          "title:Calculate CM of below system of particles arranged in a rectangle.",
+          "image:qstore/school.qubics/class11/school.qubics_class11_chapter1_jLmQHEb-cm_rectangular .png"
+        ],
+        "metadata": {
+          "title": "Calculate CM of below system of particles arranged in a rectangle.",
+          "subject": "school.qubics",
+          "user": "anonymous",
+          "timestamp": "25-11-2022 08:28:40 AM",
+          "ans-count": "0"
+        }
+      }
+    ]
+  },
+  {
+    "qid": 2,
+    "solutions": [
+      {
+        "id": 1,
+        "steps": [
+          "We have 2 particles of mass $m_1$ and $m_2$ . Let there position vectors be $r_1$ and $r_2$ respectively.",
+          "$R\\ \u003d\\ \\frac{m_1r_1+m_2r_2}{m_1+m_2}$"
+        ],
+        "metadata": {
+          "title": "",
+          "subject": "school.qubics",
+          "user": "anonymous",
+          "timestamp": "25-11-2022 07:32:29 AM",
+          "ans-count": "0"
+        }
+      }
+    ]
+  }
+]

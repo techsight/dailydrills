@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "lastQuestionId": 10,
+  "name": "school.qubics",
+  "imageBaseRef": "https://storage.googleapis.com/qubics-resources",
+  "questFiles": [
+    {
+      "id": "class11+chapter1",
+      "metadata": {
+        "enddate": "2023-12-25",
+        "publish": "yes",
+        "title": "System of particles and rotational motion",
+        "tags": "physics"
+      }
+    },
+    {
+      "id": "class11+chapter2",
+      "metadata": {
+        "enddate": "2022-12-25",
+        "publish": "yes",
+        "title": "Vectors",
+        "tags": "physics"
+      }
+    },
+    {
+      "id": "class11+chapter3",
+      "metadata": {
+        "enddate": "2022-12-25",
+        "publish": "yes",
+        "title": "Laws of motion",
+        "tags": "physics"
+      }
+    },
+    {
+      "id": "class11+chapter4",
+      "metadata": {
+        "enddate": "2022-12-25",
+        "publish": "yes",
+        "title": "Work energy and power",
+        "tags": "physics"
+      }
+    },
+    {
+      "id": "class7+chapter1",
+      "metadata": {
+        "enddate": "2022-12-25",
+        "publish": "yes",
+        "title": ""
+      }
+    },
+    {
+      "id": "class7+chapter2",
+      "metadata": {
+        "enddate": "2022-12-25",
+        "publish": "yes",
+        "title": ""
+      }
+    },
+    {
+      "id": "class7+chapter3",
+      "metadata": {
+        "enddate": "2022-12-25",
+        "publish": "yes",
+        "title": ""
+      }
+    },
+    {
+      "id": "class7+chapter4",
+      "metadata": {
+        "enddate": "2022-12-25",
+        "publish": "yes",
+        "title": ""
+      }
+    },
+    {
+      "id": "class11+chapter5",
+      "metadata": {
+        "enddate": "2023-12-31",
+        "publish": "yes",
+        "title": "Trigonometry",
+        "tags": "mathematics, quiz"
+      }
+    },
+    {
+      "id": "class11+chapter6",
+      "metadata": {
+        "enddate": "2022-12-31",
+        "publish": "yes",
+        "title": ""
+      }
+    }
+  ],
+  "answers": [
+    "class11+chapter1_a"
+  ],
+  "quizes": [
+    "class11+chapter5_q"
+  ]
+}
