@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "type": "quiz",
+    "question": [
+      "If $a, b, c $ and $d$ are in GP then - which of the following is true?",
+      "choice:(A) $b^2\u003dad$",
+      "choice:(B) $ad \u003d bc$",
+      "choice:(C) $\\frac{b}{a}\u003dc$",
+      "choice:(D) $d^2\u003dbc$"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class11",
+      "chapter": "chapter6",
+      "timestamp": "19-1-2023 06:41:55 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  }
+]
