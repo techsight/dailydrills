@@ -5,7 +5,9 @@
     "question": [
       "Arithmetic and geometric mean",
       "Arithmetic mean of $a$ and $b$ \u003d $\\frac{a+b}{2}$",
-      "Geometric mean of $a$ and $b$ \u003d $\\sqrt{ab}$"
+      "Geometric mean of $a$ and $b$ \u003d $\\sqrt{ab}$",
+      "If $a,b,c $ and $d$ are in GP then - $\\frac{b}{a}\u003d\\frac{c}{b}\u003d\\frac{d}{c}$ ",
+      "i.e. $b^2\u003dac$ , $c^2\u003dbd$ and $ad\u003dbc$"
     ],
     "tags": {},
     "metadata": {
@@ -35,7 +37,8 @@
       "timestamp": "19-1-2023 06:38:21 PM",
       "ans-count": "0",
       "title": "",
-      "quiz": "1"
+      "quiz": "1",
+      "imageBaseRef": "https://storage.googleapis.com/qubics-resources"
     }
   }
 ]
