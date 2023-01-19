@@ -7,7 +7,8 @@
       "choice:(A) $b^2\u003dad$",
       "choice:(B) $ad \u003d bc$",
       "choice:(C) $\\frac{b}{a}\u003dc$",
-      "choice:(D) $d^2\u003dbc$"
+      "choice:(D) $d^2\u003dbc$",
+      "answer:B"
     ],
     "tags": {},
     "metadata": {
