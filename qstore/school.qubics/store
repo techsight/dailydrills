@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastQuestionId": 10,
+  "lastQuestionId": 12,
   "name": "school.qubics",
   "imageBaseRef": "https://storage.googleapis.com/qubics-resources",
   "questFiles": [
@@ -86,7 +86,8 @@
       "metadata": {
         "enddate": "2022-12-31",
         "publish": "yes",
-        "title": ""
+        "title": "Sequence and Series",
+        "tags": "mathematics"
       }
     }
   ],
