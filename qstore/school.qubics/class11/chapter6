@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": 12,
+    "type": "subjective",
+    "question": [
+      "Arithmetic and geometric mean",
+      "Arithmetic mean of $a$ and $b$ \u003d $\\frac{a+b}{2}$",
+      "Geometric mean of $a$ and $b$ \u003d $\\sqrt{ab}$"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class11",
+      "chapter": "chapter6",
+      "user": "anonymous",
+      "timestamp": "19-1-2023 05:19:04 PM",
+      "ans-count": "0",
+      "title": "",
+      "quiz": ""
+    }
+  }
+]
