@@ -1,0 +1,26 @@
+[
+  {
+    "id": 14,
+    "type": "subjective",
+    "question": [
+      "Permutations - Basics",
+      "If there are $n$ things and you have to choose $r$ things out of it , then how many ways are there to do so (or how many permutations are possible)?",
+      "Imagine , you are given 4 letters A, B, C and D.  You  want to find how many two letter words can be formed.",
+      "You are given - A, B, C, D and you have to fill 2 positions $x  x$",
+      "First position can be filled in 4 ways.",
+      "After filling first position , second position can be filled in 3 ways.",
+      "Total number of ways:  $4 \\times 3 \u003d 12$"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class11",
+      "chapter": "chapter7",
+      "user": "anonymous",
+      "timestamp": "21-1-2023 09:22:12 AM",
+      "ans-count": "0",
+      "title": "",
+      "quiz": ""
+    }
+  }
+]
