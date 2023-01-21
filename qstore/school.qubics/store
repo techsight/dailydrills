@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastQuestionId": 13,
+  "lastQuestionId": 14,
   "name": "school.qubics",
   "imageBaseRef": "https://storage.googleapis.com/qubics-resources",
   "questFiles": [
@@ -87,6 +87,15 @@
         "enddate": "2022-12-31",
         "publish": "yes",
         "title": "Sequence and Series",
+        "tags": "mathematics"
+      }
+    },
+    {
+      "id": "class11+chapter7",
+      "metadata": {
+        "enddate": "2025-02-19",
+        "publish": "yes",
+        "title": "Permutations",
         "tags": "mathematics"
       }
     }
