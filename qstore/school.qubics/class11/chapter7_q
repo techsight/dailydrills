@@ -19,26 +19,5 @@
       "ans-count": "0",
       "title": ""
     }
-  },
-  {
-    "id": 2,
-    "type": "quiz",
-    "question": [
-      "How many numbers are there between 100 and 1000?",
-      "choice:(A) $10\\times10\\times10$",
-      "choice:(B) $8\\times9\\times9$",
-      "choice:(C) $9\\times10\\times10$",
-      "choice:(D) $1\\times10\\times10$",
-      "answer:C"
-    ],
-    "tags": {},
-    "metadata": {
-      "subject": "school.qubics",
-      "standard": "class11",
-      "chapter": "chapter7",
-      "timestamp": "22-1-2023 03:31:54 PM",
-      "ans-count": "0",
-      "title": ""
-    }
   }
 ]
