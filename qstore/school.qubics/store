@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastQuestionId": 15,
+  "lastQuestionId": 16,
   "name": "school.qubics",
   "imageBaseRef": "https://storage.googleapis.com/qubics-resources",
   "questFiles": [
@@ -96,6 +96,15 @@
         "enddate": "2025-02-19",
         "publish": "yes",
         "title": "Permutations",
+        "tags": "mathematics"
+      }
+    },
+    {
+      "id": "class12+chapter1",
+      "metadata": {
+        "enddate": "2023-04-12",
+        "publish": "yes",
+        "title": "Matrix",
         "tags": "mathematics"
       }
     }
