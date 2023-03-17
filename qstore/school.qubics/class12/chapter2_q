@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "type": "quiz",
+    "question": [
+      "Name this halide $\\ce{(CH3)3CCl}$",
+      "choice:(A) tert butyl chloride",
+      "choice:(B) tri chloro echane"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "timestamp": "17-3-2023 04:42:54 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  }
+]
