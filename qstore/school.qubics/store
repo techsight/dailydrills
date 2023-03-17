@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastQuestionId": 16,
+  "lastQuestionId": 17,
   "name": "school.qubics",
   "imageBaseRef": "https://storage.googleapis.com/qubics-resources",
   "questFiles": [
@@ -107,6 +107,14 @@
         "title": "Matrix",
         "tags": "mathematics"
       }
+    },
+    {
+      "id": "class12+chapter2",
+      "metadata": {
+        "enddate": "2023-04-16",
+        "publish": "yes",
+        "title": ""
+      }
     }
   ],
   "answers": [
@@ -115,6 +123,7 @@
   "quizes": [
     "class11+chapter5_q",
     "class11+chapter6_q",
-    "class11+chapter7_q"
+    "class11+chapter7_q",
+    "class12+chapter2_q"
   ]
 }
