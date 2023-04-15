@@ -22,5 +22,27 @@
       "imageBaseRef": "https://storage.googleapis.com/qubics-resources",
       "publish": "yes"
     }
+  },
+  {
+    "id": 15,
+    "type": "subjective",
+    "question": [
+      "$\\frac{d}{dx}\\left(\\cot\\ x\\right)\u003d-\\operatorname{cosec}^2x$",
+      "$\\frac{d}{dx}\\left(\\sec x\\right)\u003d\\sec x\\ \\tan\\ x$",
+      "$\\frac{d}{dx}\\left(\\operatorname{cosec}x\\right)\u003d-\\operatorname{cosec}x\\ \\cot x$",
+      "$\\frac{d}{dx}\\left(e^x\\right)\u003de^x$",
+      "$\\frac{d}{dx}\\left(\\log_ex\\right)\u003d\\frac{1}{x}$"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "user": "anonymous",
+      "timestamp": "15-4-2023 04:29:15 PM",
+      "ans-count": "0",
+      "title": "",
+      "quiz": ""
+    }
   }
 ]
