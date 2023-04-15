@@ -19,5 +19,46 @@
       "ans-count": "0",
       "title": ""
     }
+  },
+  {
+    "id": 2,
+    "type": "quiz",
+    "question": [
+      "2.$\\frac{d}{dx}\\left(\\log\\log x\\right)\u003d$",
+      "choice:(A) $\\frac{1}{x\\log x}$",
+      "choice:(B) $\\frac{1}{\\log x}$",
+      "choice:(C) $\\frac{1}{x}$",
+      "choice:(D) $\\frac{1}{\\log^2x}$"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "timestamp": "15-4-2023 04:55:32 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  },
+  {
+    "id": 3,
+    "type": "quiz",
+    "question": [
+      "3.$\\lim_{x-\u003e\\frac{\\pi}{2}}\\frac{k\\cos x}{\\pi-2x}\u003d$",
+      "choice:(A) Undefined",
+      "choice:(B) k",
+      "choice:(C) $\\frac{k}{2}$",
+      "choice:(D) 0",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "timestamp": "15-4-2023 04:59:09 PM",
+      "ans-count": "0",
+      "title": ""
+    }
   }
 ]
