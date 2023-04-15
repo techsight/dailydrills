@@ -28,8 +28,7 @@
       "choice:(A) $\\frac{1}{x\\log x}$",
       "choice:(B) $\\frac{1}{\\log x}$",
       "choice:(C) $\\frac{1}{x}$",
-      "choice:(D) $\\frac{1}{\\log^2x}$",
-      "answer:A"
+      "choice:(D) $\\frac{1}{\\log^2x}$"
     ],
     "tags": {},
     "metadata": {
@@ -58,6 +57,27 @@
       "standard": "class12",
       "chapter": "chapter2",
       "timestamp": "15-4-2023 04:59:09 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  },
+  {
+    "id": 4,
+    "type": "quiz",
+    "question": [
+      "4. If $y\u003d\\cos^{-1}\\left(\\sqrt{1-x^2}\\right)$ then $\\frac{dy}{dx}\u003d$",
+      "choice:(A) $\\sqrt{1-x^2}$",
+      "choice:(B) $\\frac{1}{\\sqrt{1-x^2}}$",
+      "choice:(C) $-\\sin^{-1}\\sqrt{1-x^2}$",
+      "choice:(D) Non of these",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "timestamp": "15-4-2023 05:14:00 PM",
       "ans-count": "0",
       "title": ""
     }
