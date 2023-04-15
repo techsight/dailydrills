@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastQuestionId": 17,
+  "lastQuestionId": 13,
   "name": "school.qubics",
   "imageBaseRef": "https://storage.googleapis.com/qubics-resources",
   "questFiles": [
@@ -91,29 +91,12 @@
       }
     },
     {
-      "id": "class11+chapter7",
-      "metadata": {
-        "enddate": "2025-02-19",
-        "publish": "yes",
-        "title": "Permutations",
-        "tags": "mathematics"
-      }
-    },
-    {
       "id": "class12+chapter1",
       "metadata": {
-        "enddate": "2023-04-12",
+        "enddate": "2023-03-17",
         "publish": "yes",
-        "title": "Matrix",
-        "tags": "mathematics"
-      }
-    },
-    {
-      "id": "class12+chapter2",
-      "metadata": {
-        "enddate": "2023-04-16",
-        "publish": "yes",
-        "title": ""
+        "title": "Matrices",
+        "tags": "Mathematics"
       }
     }
   ],
@@ -122,8 +105,6 @@
   ],
   "quizes": [
     "class11+chapter5_q",
-    "class11+chapter6_q",
-    "class11+chapter7_q",
-    "class12+chapter2_q"
+    "class11+chapter6_q"
   ]
 }
