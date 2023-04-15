@@ -3,16 +3,19 @@
     "id": 1,
     "type": "quiz",
     "question": [
-      "Name this halide $\\ce{(CH3)3CCl}$",
-      "choice:(A) tert butyl chloride",
-      "choice:(B) tri chloro echane"
+      "$\\frac{d}{dx}\\left(e^{-x^2}\\right)\u003d$",
+      "choice:(A) $e^{-x^2}$",
+      "choice:(B) $-2x.e^{-x^2}$",
+      "choice:(C) $-x^2.e^{-x^2}$",
+      "choice:(D) None of these",
+      "answer:B"
     ],
     "tags": {},
     "metadata": {
       "subject": "school.qubics",
       "standard": "class12",
       "chapter": "chapter2",
-      "timestamp": "17-3-2023 04:42:54 PM",
+      "timestamp": "15-4-2023 04:51:49 PM",
       "ans-count": "0",
       "title": ""
     }
