@@ -28,7 +28,8 @@
       "choice:(A) $\\frac{1}{x\\log x}$",
       "choice:(B) $\\frac{1}{\\log x}$",
       "choice:(C) $\\frac{1}{x}$",
-      "choice:(D) $\\frac{1}{\\log^2x}$"
+      "choice:(D) $\\frac{1}{\\log^2x}$",
+      "answer:A"
     ],
     "tags": {},
     "metadata": {
@@ -78,6 +79,27 @@
       "standard": "class12",
       "chapter": "chapter2",
       "timestamp": "15-4-2023 05:14:00 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  },
+  {
+    "id": 5,
+    "type": "quiz",
+    "question": [
+      "5.$\\frac{d}{dx}\\left(\\cos\\sqrt{x}\\right)\u003d$",
+      "choice:(A) $-\\sin\\sqrt{x}$",
+      "choice:(B) $-\\sin\\frac{1}{2\\sqrt{x}}$",
+      "choice:(C) $\\frac{-\\sin\\sqrt{x}}{2\\sqrt{x}}$",
+      "choice:(D) $\\frac{-\\cos\\sqrt{x}}{2\\sqrt{x}}$",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "timestamp": "15-4-2023 05:37:50 PM",
       "ans-count": "0",
       "title": ""
     }
