@@ -28,7 +28,8 @@
       "choice:(A) $\\frac{1}{x\\log x}$",
       "choice:(B) $\\frac{1}{\\log x}$",
       "choice:(C) $\\frac{1}{x}$",
-      "choice:(D) $\\frac{1}{\\log^2x}$"
+      "choice:(D) $\\frac{1}{\\log^2x}$",
+      "answer:A"
     ],
     "tags": {},
     "metadata": {
