@@ -28,8 +28,7 @@
       "choice:(A) $\\frac{1}{x\\log x}$",
       "choice:(B) $\\frac{1}{\\log x}$",
       "choice:(C) $\\frac{1}{x}$",
-      "choice:(D) $\\frac{1}{\\log^2x}$",
-      "answer:A"
+      "choice:(D) $\\frac{1}{\\log^2x}$"
     ],
     "tags": {},
     "metadata": {
@@ -100,6 +99,47 @@
       "standard": "class12",
       "chapter": "chapter2",
       "timestamp": "15-4-2023 05:37:50 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  },
+  {
+    "id": 6,
+    "type": "quiz",
+    "question": [
+      "6. If $y\u003d\\cos x.\\cos\\ 2x.\\cos\\ 3x$ to find $\\frac{dy}{dx}$, what is the most suitable technique?",
+      "choice:(A) product rule e.g. $\\frac{d}{dx}\\left(uv\\right)$",
+      "choice:(B) Logarithmic rule . $\\log\\left(y\\right)\u003d\\log\\left(\\cos x.\\cos2x.\\cos3x\\right)$ and differentiate",
+      "choice:(C) Exapand $\\cos2x\\ and\\ \\cos3x\\ $ and then differentiate",
+      "choice:(D) None of the above",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "timestamp": "15-4-2023 06:07:06 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  },
+  {
+    "id": 7,
+    "type": "quiz",
+    "question": [
+      "7. Given $y\u003d\\ \\left(\\log x\\right)^{\\log x}$ Which method is best suited to calculate $\\frac{dy}{dx}$?",
+      "choice:(A) First take log on both sides $\\log\\ y\\ \u003d\\ \\log\\left[\\left(\\log x\\right)^{\\log x}\\right]$ then differentiate",
+      "choice:(B) Use formula $\\frac{d}{dx}\\left(x^n\\right)$",
+      "choice:(C) First use $\\frac{d}{dx}\\log x$ formula",
+      "choice:(D) None of these"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "timestamp": "15-4-2023 06:15:41 PM",
       "ans-count": "0",
       "title": ""
     }
