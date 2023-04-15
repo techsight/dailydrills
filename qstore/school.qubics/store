@@ -93,19 +93,19 @@
     {
       "id": "class12+chapter1",
       "metadata": {
-        "enddate": "2025-03-17",
+        "enddate": "2023-03-17",
         "publish": "yes",
         "title": "Matrices",
-        "tags": "Mathematics"
+        "tags": "mathematics"
       }
     },
     {
       "id": "class12+chapter2",
       "metadata": {
-        "enddate": "2025-03-17",
+        "enddate": "2023-03-17",
         "publish": "yes",
         "title": "Continuity and Differentiability",
-        "tags": "Mathematics"
+        "tags": "mathematics"
       }
     }
   ],
