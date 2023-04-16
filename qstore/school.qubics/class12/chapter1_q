@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "type": "quiz",
+    "question": [
+      "1. which of the following option is correct for",
+      " $A \u003d \\begin{bmatrix}\n1 \u0026 2\\\\\n2 \u0026 b \\end{bmatrix} $ $B \u003d \\begin{bmatrix}\n1 \u0026 2\\\\\n-2 \u0026 b \\end{bmatrix}$",
+      "choice:(A) $A$ - symmetric , $B$ - skew symmetric",
+      "choice:(B) $A$- symmetric, $B$ - scalar",
+      "choice:(C) Only $A$ is symmetric ",
+      "choice:(D) Only $B$ is skew symmetric",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter1",
+      "timestamp": "16-4-2023 11:31:45 AM",
+      "ans-count": "0",
+      "title": ""
+    }
+  }
+]
