@@ -85,5 +85,26 @@
       "ans-count": "0",
       "title": ""
     }
+  },
+  {
+    "id": 5,
+    "type": "quiz",
+    "question": [
+      "5. If $A \\begin{bmatrix}2 \u0026 3 \u0026 4\\end{bmatrix} \u003d \\begin{bmatrix}2 \u0026 3 \u0026 4\\\\0 \u0026 0 \u0026 0\\\\4 \u0026 6 \u0026 8\\end{bmatrix}$ then order of $A$ is",
+      "choice:(A) $3\\times1$",
+      "choice:(B) $3\\times2$",
+      "choice:(C) $3\\times3$",
+      "choice:(D) $1\\times3$",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter1",
+      "timestamp": "16-4-2023 12:40:20 PM",
+      "ans-count": "0",
+      "title": ""
+    }
   }
 ]
