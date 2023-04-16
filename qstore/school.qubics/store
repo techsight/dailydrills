@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastQuestionId": 18,
+  "lastQuestionId": 19,
   "name": "school.qubics",
   "imageBaseRef": "https://storage.googleapis.com/qubics-resources",
   "questFiles": [
@@ -115,6 +115,7 @@
   "quizes": [
     "class11+chapter5_q",
     "class11+chapter6_q",
-    "class12+chapter2_q"
+    "class12+chapter2_q",
+    "class12+chapter1_q"
   ]
 }
