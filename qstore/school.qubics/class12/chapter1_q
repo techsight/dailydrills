@@ -20,5 +20,48 @@
       "ans-count": "0",
       "title": ""
     }
+  },
+  {
+    "id": 2,
+    "type": "quiz",
+    "question": [
+      "2. Which of the below is true for the given matrics $A\u003d\\begin{bmatrix}\n1 \u0026 2 \u0026 1\\\\2 \u0026 2 \u0026 1\\\\1 \u0026 1 \u0026 c\n\\end{bmatrix}$",
+      "choice:(A) $A_{i,j}\u003dA_{j,i}$",
+      "choice:(B) $A^T\u003dA$",
+      "choice:(C) Both $A$ and $B$",
+      "choice:(D) None of these",
+      "deleted:(E) ",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter1",
+      "timestamp": "16-4-2023 11:47:24 AM",
+      "ans-count": "0",
+      "title": ""
+    }
+  },
+  {
+    "id": 3,
+    "type": "quiz",
+    "question": [
+      "3. Which of the following matrix is skew symmetric?$X\u003d\\begin{bmatrix}\n1 \u0026 2 \\\\-2 \u00261\n\\end{bmatrix}$$Y\u003d\\begin{bmatrix}\n0 \u0026 2 \\\\-2 \u00260\n\\end{bmatrix}$",
+      "choice:(A) Both $X$ and $Y$",
+      "choice:(B) Only $Y$",
+      "choice:(C) Only $X$",
+      "choice:(D) Neither $X$ nor $Y$",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter1",
+      "timestamp": "16-4-2023 11:54:57 AM",
+      "ans-count": "0",
+      "title": ""
+    }
   }
 ]
