@@ -3,7 +3,7 @@
     "id": 1,
     "type": "quiz",
     "question": [
-      "$\\frac{d}{dx}\\left(e^{-x^2}\\right)\u003d$",
+      "1.$\\frac{d}{dx}\\left(e^{-x^2}\\right)\u003d$",
       "choice:(A) $e^{-x^2}$",
       "choice:(B) $-2x.e^{-x^2}$",
       "choice:(C) $-x^2.e^{-x^2}$",
@@ -28,7 +28,8 @@
       "choice:(A) $\\frac{1}{x\\log x}$",
       "choice:(B) $\\frac{1}{\\log x}$",
       "choice:(C) $\\frac{1}{x}$",
-      "choice:(D) $\\frac{1}{\\log^2x}$"
+      "choice:(D) $\\frac{1}{\\log^2x}$",
+      "answer:A"
     ],
     "tags": {},
     "metadata": {
@@ -132,7 +133,8 @@
       "choice:(A) First take log on both sides $\\log\\ y\\ \u003d\\ \\log\\left[\\left(\\log x\\right)^{\\log x}\\right]$ then differentiate",
       "choice:(B) Use formula $\\frac{d}{dx}\\left(x^n\\right)$",
       "choice:(C) First use $\\frac{d}{dx}\\log x$ formula",
-      "choice:(D) None of these"
+      "choice:(D) None of these",
+      "answer:A"
     ],
     "tags": {},
     "metadata": {
