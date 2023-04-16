@@ -63,5 +63,27 @@
       "ans-count": "0",
       "title": ""
     }
+  },
+  {
+    "id": 4,
+    "type": "quiz",
+    "question": [
+      "4.Find value of  $x$ and $y$",
+      " $\\begin{bmatrix} 3 \u0026 4 \\\\ 2 \u0026 y\\end{bmatrix}$ $\\begin{bmatrix} 5 \\\\ 1 \\end{bmatrix}$ $\u003d\\begin{bmatrix} x \\\\ 15 \\end{bmatrix}$",
+      "choice:(A) $ x\u003d5, y\u003d19$",
+      "choice:(B) $x\u003d19, y\u003d5$",
+      "choice:(C) $x\u003d35, y\u003d15$",
+      "choice:(D) None of these",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter1",
+      "timestamp": "16-4-2023 12:14:08 PM",
+      "ans-count": "0",
+      "title": ""
+    }
   }
 ]
