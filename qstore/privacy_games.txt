@@ -1,7 +1,6 @@
-QuiGames Apps - Privacy Policy
+Qubics Integrated Learning- Privacy Policy
 -----------------------
-In category of games and entertainment apps we do not collect and share any personal data from user. However the advertisers that we use may collect and process personal data for the purpose of personalizing 
-advertisement experience.
+In category of games and entertainment apps we do not collect and share any personal data from user. However the advertisers that we use may collect and process personal data for the purpose of personalizing advertisement experience.
 
 In category of education apps user mobile number or email id may be used for login. But this information is used for login purpose only and not shared with any entity.
 
@@ -19,4 +18,4 @@ Advertisers
 
 Contact Us
 ----------
-Write to us at quigames@gmail.com for further queries.
+Write to us at teschsightsolutions@gmail.com or quigames@gmail.com for further queries.
