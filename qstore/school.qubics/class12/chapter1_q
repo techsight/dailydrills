@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "type": "quiz",
+    "question": [
+      "1. which of the following option is correct for",
+      " $A \u003d \\begin{bmatrix}\n1 \u0026 2\\\\\n2 \u0026 b \\end{bmatrix} $ $B \u003d \\begin{bmatrix}\n1 \u0026 2\\\\\n-2 \u0026 b \\end{bmatrix}$",
+      "choice:(A) $A$ - symmetric , $B$ - skew symmetric",
+      "choice:(B) $A$- symmetric, $B$ - scalar",
+      "choice:(C) Only $A$ is symmetric ",
+      "choice:(D) Only $B$ is skew symmetric",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter1",
+      "timestamp": "16-4-2023 11:31:45 AM",
+      "ans-count": "0",
+      "title": ""
+    }
+  },
+  {
+    "id": 2,
+    "type": "quiz",
+    "question": [
+      "2. Which of the below is true for the given matrics $A\u003d\\begin{bmatrix}\n1 \u0026 2 \u0026 1\\\\2 \u0026 2 \u0026 1\\\\1 \u0026 1 \u0026 c\n\\end{bmatrix}$",
+      "choice:(A) $A_{i,j}\u003dA_{j,i}$",
+      "choice:(B) $A^T\u003dA$",
+      "choice:(C) Both $A$ and $B$",
+      "choice:(D) None of these",
+      "deleted:(E) ",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter1",
+      "timestamp": "16-4-2023 11:47:24 AM",
+      "ans-count": "0",
+      "title": ""
+    }
+  },
+  {
+    "id": 3,
+    "type": "quiz",
+    "question": [
+      "3. Which of the following matrix is skew symmetric?$X\u003d\\begin{bmatrix}\n1 \u0026 2 \\\\-2 \u00261\n\\end{bmatrix}$$Y\u003d\\begin{bmatrix}\n0 \u0026 2 \\\\-2 \u00260\n\\end{bmatrix}$",
+      "choice:(A) Both $X$ and $Y$",
+      "choice:(B) Only $Y$",
+      "choice:(C) Only $X$",
+      "choice:(D) Neither $X$ nor $Y$",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter1",
+      "timestamp": "16-4-2023 11:54:57 AM",
+      "ans-count": "0",
+      "title": ""
+    }
+  },
+  {
+    "id": 4,
+    "type": "quiz",
+    "question": [
+      "4.Find value of  $x$ and $y$",
+      " $\\begin{bmatrix} 3 \u0026 4 \\\\ 2 \u0026 y\\end{bmatrix}$ $\\begin{bmatrix} 5 \\\\ 1 \\end{bmatrix}$ $\u003d\\begin{bmatrix} x \\\\ 15 \\end{bmatrix}$",
+      "choice:(A) $ x\u003d5, y\u003d19$",
+      "choice:(B) $x\u003d19, y\u003d5$",
+      "choice:(C) $x\u003d35, y\u003d15$",
+      "choice:(D) None of these",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter1",
+      "timestamp": "16-4-2023 12:14:08 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  },
+  {
+    "id": 5,
+    "type": "quiz",
+    "question": [
+      "5. If $A \\begin{bmatrix}2 \u0026 3 \u0026 4\\end{bmatrix} \u003d \\begin{bmatrix}2 \u0026 3 \u0026 4\\\\0 \u0026 0 \u0026 0\\\\4 \u0026 6 \u0026 8\\end{bmatrix}$ then order of $A$ is",
+      "choice:(A) $3\\times1$",
+      "choice:(B) $3\\times2$",
+      "choice:(C) $3\\times3$",
+      "choice:(D) $1\\times3$",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter1",
+      "timestamp": "16-4-2023 12:40:20 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  }
+]

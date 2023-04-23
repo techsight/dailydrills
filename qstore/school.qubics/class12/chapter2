@@ -1,0 +1,112 @@
+[
+  {
+    "id": 14,
+    "type": "subjective",
+    "question": [
+      "title:Formulae",
+      "$\\frac{d}{dx}\\left(x^n\\right)\u003dnx^{n-1}$",
+      "$\\frac{d}{dx}\\left(\\sin x\\right)\u003d\\cos x$",
+      "$\\frac{d}{dx}\\left(\\cos x\\right)\u003d\\sin x$",
+      "$\\frac{d}{dx}\\left(\\tan x\\right)\u003d\\sec^2x$"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "user": "anonymous",
+      "timestamp": "15-4-2023 10:50:16 AM",
+      "ans-count": "0",
+      "title": "Formulae",
+      "quiz": "",
+      "imageBaseRef": "https://storage.googleapis.com/qubics-resources",
+      "publish": "yes"
+    }
+  },
+  {
+    "id": 15,
+    "type": "subjective",
+    "question": [
+      "$\\frac{d}{dx}\\left(\\cot\\ x\\right)\u003d-\\operatorname{cosec}^2x$",
+      "$\\frac{d}{dx}\\left(\\sec x\\right)\u003d\\sec x\\ \\tan\\ x$",
+      "$\\frac{d}{dx}\\left(\\operatorname{cosec}x\\right)\u003d-\\operatorname{cosec}x\\ \\cot x$",
+      "$\\frac{d}{dx}\\left(e^x\\right)\u003de^x$",
+      "$\\frac{d}{dx}\\left(\\log_ex\\right)\u003d\\frac{1}{x}$"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "user": "anonymous",
+      "timestamp": "15-4-2023 04:29:15 PM",
+      "ans-count": "0",
+      "title": "",
+      "quiz": "",
+      "imageBaseRef": "https://storage.googleapis.com/qubics-resources"
+    }
+  },
+  {
+    "id": 16,
+    "type": "subjective",
+    "question": [
+      "$\\frac{d}{dx}\\left(\\log_ex\\right)\u003d\\frac{1}{x}$",
+      "$\\frac{d}{dx}\\left(\\log_ax\\right)\u003d\\frac{1}{\\log a}.\\frac{1}{x}$",
+      "$\\frac{d}{dx}\\left(\\sin^{-1}x\\right)\u003d\\frac{1}{\\sqrt{1-x^2}}$",
+      "$\\frac{d}{dx}\\left(\\cos^{-1}x\\right)\u003d-\\frac{1}{\\sqrt{1-x^2}}$"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "user": "anonymous",
+      "timestamp": "15-4-2023 04:35:23 PM",
+      "ans-count": "0",
+      "title": "",
+      "quiz": "",
+      "imageBaseRef": "https://storage.googleapis.com/qubics-resources"
+    }
+  },
+  {
+    "id": 17,
+    "type": "subjective",
+    "question": [
+      "$\\frac{d}{dx}\\left(\\tan^{-1}x\\right)\u003d\\frac{1}{1+x^2}$",
+      "$\\frac{2\\tan\\theta}{1+\\tan^2\\theta}\u003d\\frac{2\\frac{\\sin\\theta}{\\cos\\theta}}{\\sec^2\\theta}\u003d2\\frac{\\sin\\theta}{\\cos\\theta}\\times\\cos^2\\theta\u003d\\sin2\\theta$",
+      "$\\frac{1-\\tan^2\\theta}{1+\\tan^2\\theta}\u003d\\cos^2\\theta-\\sin^2\\theta\u003d\\cos2\\theta$",
+      "$\\frac{3\\tan\\theta-\\tan^3\\theta}{1-3\\tan^2\\theta}\u003d\\tan\\ 3\\theta$"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "user": "anonymous",
+      "timestamp": "15-4-2023 04:40:45 PM",
+      "ans-count": "0",
+      "title": "",
+      "quiz": "",
+      "imageBaseRef": "https://storage.googleapis.com/qubics-resources"
+    }
+  },
+  {
+    "id": 18,
+    "type": "activity",
+    "question": [
+      "Quiz-1"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "user": "anonymous",
+      "timestamp": "15-4-2023 04:48:43 PM",
+      "ans-count": "0",
+      "title": "",
+      "quiz": "1,2,3,4,5,6,7,8,9",
+      "imageBaseRef": "https://storage.googleapis.com/qubics-resources"
+    }
+  }
+]

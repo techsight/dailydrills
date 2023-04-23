@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastQuestionId": 10,
+  "lastQuestionId": 20,
   "name": "school.qubics",
   "imageBaseRef": "https://storage.googleapis.com/qubics-resources",
   "questFiles": [
@@ -86,7 +86,35 @@
       "metadata": {
         "enddate": "2022-12-31",
         "publish": "yes",
-        "title": ""
+        "title": "Sequence and Series",
+        "tags": "mathematics"
+      }
+    },
+    {
+      "id": "class12+chapter1",
+      "metadata": {
+        "enddate": "2023-03-17",
+        "publish": "yes",
+        "title": "Matrices",
+        "tags": "mathematics"
+      }
+    },
+    {
+      "id": "class12+chapter2",
+      "metadata": {
+        "enddate": "2023-03-17",
+        "publish": "yes",
+        "title": "Continuity and Differentiability",
+        "tags": "mathematics"
+      }
+    },
+    {
+      "id": "class8+chapter1",
+      "metadata": {
+        "enddate": "2025-05-17",
+        "publish": "yes",
+        "title": "Rational Numbers",
+        "tags": "mathematics"
       }
     }
   ],
@@ -94,6 +122,10 @@
     "class11+chapter1_a"
   ],
   "quizes": [
-    "class11+chapter5_q"
+    "class11+chapter5_q",
+    "class11+chapter6_q",
+    "class12+chapter2_q",
+    "class12+chapter1_q",
+    "class8+chapter1_q"
   ]
 }

@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "type": "quiz",
+    "question": [
+      "1.$\\frac{d}{dx}\\left(e^{-x^2}\\right)\u003d$",
+      "choice:(A) $e^{-x^2}$",
+      "choice:(B) $-2x.e^{-x^2}$",
+      "choice:(C) $-x^2.e^{-x^2}$",
+      "choice:(D) None of these",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "timestamp": "15-4-2023 04:51:49 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  },
+  {
+    "id": 2,
+    "type": "quiz",
+    "question": [
+      "2.$\\frac{d}{dx}\\left(\\log\\log x\\right)\u003d$",
+      "choice:(A) $\\frac{1}{x\\log x}$",
+      "choice:(B) $\\frac{1}{\\log x}$",
+      "choice:(C) $\\frac{1}{x}$",
+      "choice:(D) $\\frac{1}{\\log^2x}$",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "timestamp": "15-4-2023 04:55:32 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  },
+  {
+    "id": 3,
+    "type": "quiz",
+    "question": [
+      "3.$\\lim_{x-\u003e\\frac{\\pi}{2}}\\frac{k\\cos x}{\\pi-2x}\u003d$",
+      "choice:(A) Undefined",
+      "choice:(B) k",
+      "choice:(C) $\\frac{k}{2}$",
+      "choice:(D) 0",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "timestamp": "15-4-2023 04:59:09 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  },
+  {
+    "id": 4,
+    "type": "quiz",
+    "question": [
+      "4. If $y\u003d\\cos^{-1}\\left(\\sqrt{1-x^2}\\right)$ then $\\frac{dy}{dx}\u003d$",
+      "choice:(A) $\\sqrt{1-x^2}$",
+      "choice:(B) $\\frac{1}{\\sqrt{1-x^2}}$",
+      "choice:(C) $-\\sin^{-1}\\sqrt{1-x^2}$",
+      "choice:(D) Non of these",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "timestamp": "15-4-2023 05:14:00 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  },
+  {
+    "id": 5,
+    "type": "quiz",
+    "question": [
+      "5.$\\frac{d}{dx}\\left(\\cos\\sqrt{x}\\right)\u003d$",
+      "choice:(A) $-\\sin\\sqrt{x}$",
+      "choice:(B) $-\\sin\\frac{1}{2\\sqrt{x}}$",
+      "choice:(C) $\\frac{-\\sin\\sqrt{x}}{2\\sqrt{x}}$",
+      "choice:(D) $\\frac{-\\cos\\sqrt{x}}{2\\sqrt{x}}$",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "timestamp": "15-4-2023 05:37:50 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  },
+  {
+    "id": 6,
+    "type": "quiz",
+    "question": [
+      "6. If $y\u003d\\cos x.\\cos\\ 2x.\\cos\\ 3x$ to find $\\frac{dy}{dx}$, what is the most suitable technique?",
+      "choice:(A) product rule e.g. $\\frac{d}{dx}\\left(uv\\right)$",
+      "choice:(B) Logarithmic rule . $\\log\\left(y\\right)\u003d\\log\\left(\\cos x.\\cos2x.\\cos3x\\right)$ and differentiate",
+      "choice:(C) Exapand $\\cos2x\\ and\\ \\cos3x\\ $ and then differentiate",
+      "choice:(D) None of the above",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "timestamp": "15-4-2023 06:07:06 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  },
+  {
+    "id": 7,
+    "type": "quiz",
+    "question": [
+      "7. Given $y\u003d\\ \\left(\\log x\\right)^{\\log x}$ Which method is best suited to calculate $\\frac{dy}{dx}$?",
+      "choice:(A) First take log on both sides $\\log\\ y\\ \u003d\\ \\log\\left[\\left(\\log x\\right)^{\\log x}\\right]$ then differentiate",
+      "choice:(B) Use formula $\\frac{d}{dx}\\left(x^n\\right)$",
+      "choice:(C) First use $\\frac{d}{dx}\\log x$ formula",
+      "choice:(D) None of these",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "timestamp": "15-4-2023 06:15:41 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  },
+  {
+    "id": 8,
+    "type": "quiz",
+    "question": [
+      "8.Which of following $log$ rules is not correct?",
+      "choice:(A) $\\log\\ m^n\u003dn\\log\\ m$",
+      "choice:(B) $\\log_b\\ a\u003d\\log_be\\times\\log_ea$",
+      "choice:(C) if $a\u003db^x\\ then\\ \\log_b\\ a\u003dx$",
+      "choice:(D) $\\log_ea\\ne\\frac{1}{\\log_ae}$",
+      "answer:D"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class12",
+      "chapter": "chapter2",
+      "timestamp": "15-4-2023 06:23:50 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  }
+]
