@@ -14,7 +14,7 @@ android.permission.ACCESS_WIFI_STATE
 
 Advertisers
 -----------
-    No advertisements
+Gaming apps show advertisements using Admob network.
 
 Contact Us
 ----------
