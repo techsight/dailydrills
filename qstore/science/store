@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "lastQuestionId": 11111,
+  "name": "maths",
+  "imageBaseRef": "https://storage.googleapis.com/qubics-main-images",
+  "questFiles": [
+    {
+      "id": "class10+chapter1",
+      "metadata": {
+        "enddate": "2030-01-01",
+        "publish": "yes",
+        "title": "Topic 1",
+        "tags": ""
+      }
+    }
+  ],
+  "answers": [
+    "class10+chapter1_a"
+  ],
+  "quizes": [
+    "class10+chapter1_q"
+  ]
+}
