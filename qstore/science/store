@@ -1,7 +1,7 @@
 {
   "version": 1,
   "lastQuestionId": 11111,
-  "name": "maths",
+  "name": "science",
   "imageBaseRef": "https://storage.googleapis.com/qubics-main-images",
   "questFiles": [
     {
