@@ -3,42 +3,210 @@
     "id": 1,
     "type": "quiz",
     "question": [
-      "If $a, b, c $ and $d$ are in GP then - which of the following is true?",
-      "choice:(A) $b^2\u003dad$",
-      "choice:(B) $ad \u003d bc$",
-      "choice:(C) $\\frac{b}{a}\u003dc$",
-      "choice:(D) $d^2\u003dbc$",
-      "answer:B"
+      "The HCF of 306 and 657 is",
+      "choice:(A) 9",
+      "choice:(B) 18",
+      "choice:(C) 27",
+      "choice:(D) 36",
+      "answer:A"
     ],
     "tags": {},
-    "metadata": {
-      "subject": "school.qubics",
-      "standard": "class11",
-      "chapter": "chapter6",
-      "timestamp": "19-1-2023 06:41:55 PM",
-      "ans-count": "0",
-      "title": ""
-    }
+    "metadata": { "title": "" }
   },
   {
     "id": 2,
     "type": "quiz",
     "question": [
-      "If $a, b and c $ are in A.P. and $x, y and z $ are in G.P. then value of $x^{b-c}y^{c-a}z^{a-b}$ is",
-      "choice:(A) 0",
-      "choice:(B) 1",
-      "choice:(C) $xyz$",
-      "choice:(D) $x^ay^bz^c$",
+      "If the zeroes of the quadratic polynomial $x^2 - 5x + 6$ are $\\alpha$ and $\\beta$, then $\\alpha + \\beta$ is",
+      "choice:(A) 5",
+      "choice:(B) 6",
+      "choice:(C) -5",
+      "choice:(D) -6",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": { "title": "" }
+  },
+  {
+    "id": 3,
+    "type": "quiz",
+    "question": [
+      "The value of $\\sin 60^\\circ \\times \\cos 30^\\circ$ is",
+      "choice:(A) $\\frac{1}{2}$",
+      "choice:(B) $\\frac{\\sqrt{3}}{2}$",
+      "choice:(C) $\\frac{3}{4}$",
+      "choice:(D) $\\frac{\\sqrt{3}}{4}$",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "" }
+  },
+  {
+    "id": 4,
+    "type": "quiz",
+    "question": [
+      "If two triangles are similar, then the ratio of their corresponding areas is equal to",
+      "choice:(A) ratio of corresponding sides",
+      "choice:(B) square of ratio of corresponding sides",
+      "choice:(C) cube of ratio of corresponding sides",
+      "choice:(D) reciprocal of ratio of corresponding sides",
       "answer:B"
     ],
     "tags": {},
-    "metadata": {
-      "subject": "school.qubics",
-      "standard": "class11",
-      "chapter": "chapter6",
-      "timestamp": "20-1-2023 08:55:15 PM",
-      "ans-count": "0",
-      "title": ""
-    }
+    "metadata": { "title": "" }
+  },
+  {
+    "id": 5,
+    "type": "quiz",
+    "question": [
+      "The distance of the point $(3,4)$ from the origin is",
+      "choice:(A) 5",
+      "choice:(B) 7",
+      "choice:(C) $\\sqrt{7}$",
+      "choice:(D) $\\sqrt{25}$",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": { "title": "" }
+  },
+  {
+    "id": 6,
+    "type": "quiz",
+    "question": [
+      "The graph of a quadratic polynomial always represents a",
+      "choice:(A) straight line",
+      "choice:(B) circle",
+      "choice:(C) parabola",
+      "choice:(D) hyperbola",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "" }
+  },
+  {
+    "id": 7,
+    "type": "quiz",
+    "question": [
+      "The value of $\\tan 45^\\circ$ is",
+      "choice:(A) 0",
+      "choice:(B) 1",
+      "choice:(C) $\\sqrt{3}$",
+      "choice:(D) $\\frac{1}{\\sqrt{3}}$",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "" }
+  },
+  {
+    "id": 8,
+    "type": "quiz",
+    "question": [
+      "The pair of linear equations $2x+3y=11$ and $4x+6y=22$ has",
+      "choice:(A) no solution",
+      "choice:(B) exactly one solution",
+      "choice:(C) infinitely many solutions",
+      "choice:(D) two solutions",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "" }
+  },
+  {
+    "id": 9,
+    "type": "quiz",
+    "question": [
+      "If the radius of a circle is doubled, its area becomes",
+      "choice:(A) doubled",
+      "choice:(B) tripled",
+      "choice:(C) four times",
+      "choice:(D) half",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "" }
+  },
+  {
+    "id": 10,
+    "type": "quiz",
+    "question": [
+      "The mode of the data 2, 3, 4, 3, 5, 3, 6 is",
+      "choice:(A) 2",
+      "choice:(B) 3",
+      "choice:(C) 4",
+      "choice:(D) 5",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "" }
+  },
+  {
+    "id": 11,
+    "type": "quiz",
+    "question": [
+      "The sum of first $n$ natural numbers is",
+      "choice:(A) $n^2$",
+      "choice:(B) $\\frac{n(n+1)}{2}$",
+      "choice:(C) $\\frac{n(n-1)}{2}$",
+      "choice:(D) $2n$",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "" }
+  },
+  {
+    "id": 12,
+    "type": "quiz",
+    "question": [
+      "If $\\sin A = \\frac{1}{2}$ where $A$ is acute, then $A$ is",
+      "choice:(A) $30^\\circ$",
+      "choice:(B) $45^\\circ$",
+      "choice:(C) $60^\\circ$",
+      "choice:(D) $90^\\circ$",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": { "title": "" }
+  },
+  {
+    "id": 13,
+    "type": "quiz",
+    "question": [
+      "The coordinates of the origin are",
+      "choice:(A) $(1,1)$",
+      "choice:(B) $(0,1)$",
+      "choice:(C) $(1,0)$",
+      "choice:(D) $(0,0)$",
+      "answer:D"
+    ],
+    "tags": {},
+    "metadata": { "title": "" }
+  },
+  {
+    "id": 14,
+    "type": "quiz",
+    "question": [
+      "The curved surface area of a cylinder depends on",
+      "choice:(A) radius only",
+      "choice:(B) height only",
+      "choice:(C) radius and height",
+      "choice:(D) diameter only",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "" }
+  },
+  {
+    "id": 15,
+    "type": "quiz",
+    "question": [
+      "The probability of an impossible event is",
+      "choice:(A) 1",
+      "choice:(B) -1",
+      "choice:(C) 0",
+      "choice:(D) between 0 and 1",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "" }
   }
 ]
