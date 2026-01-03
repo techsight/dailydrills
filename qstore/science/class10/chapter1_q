@@ -3,11 +3,11 @@
     "id": 1,
     "type": "quiz",
     "question": [
-      "If $a, b, c $ and $d$ are in GP then - which of the following is true?",
-      "choice:(A) $b^2\u003dad$",
-      "choice:(B) $ad \u003d bc$",
-      "choice:(C) $\\frac{b}{a}\u003dc$",
-      "choice:(D) $d^2\u003dbc$",
+      "If force $F$, mass $m$ and acceleration $a$ are related by Newton’s second law, which of the following is true?",
+      "choice:(A) $F = \\frac{m}{a}$",
+      "choice:(B) $F = ma$",
+      "choice:(C) $m = Fa$",
+      "choice:(D) $a = Fm$",
       "answer:B"
     ],
     "tags": {},
@@ -19,11 +19,11 @@
     "id": 2,
     "type": "quiz",
     "question": [
-      "If $a, b and c $ are in A.P. and $x, y and z $ are in G.P. then value of $x^{b-c}y^{c-a}z^{a-b}$ is",
+      "If voltage $V$, current $I$ and resistance $R$ are related by Ohm’s Law, then the value of $\\frac{V}{IR}$ is",
       "choice:(A) 0",
       "choice:(B) 1",
-      "choice:(C) $xyz$",
-      "choice:(D) $x^ay^bz^c$",
+      "choice:(C) $IR$",
+      "choice:(D) $VIR$",
       "answer:B"
     ],
     "tags": {},
