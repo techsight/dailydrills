@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "type": "quiz",
+    "question": [
+      "If $a, b, c $ and $d$ are in GP then - which of the following is true?",
+      "choice:(A) $b^2\u003dad$",
+      "choice:(B) $ad \u003d bc$",
+      "choice:(C) $\\frac{b}{a}\u003dc$",
+      "choice:(D) $d^2\u003dbc$",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class11",
+      "chapter": "chapter6",
+      "timestamp": "19-1-2023 06:41:55 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  },
+  {
+    "id": 2,
+    "type": "quiz",
+    "question": [
+      "If $a, b and c $ are in A.P. and $x, y and z $ are in G.P. then value of $x^{b-c}y^{c-a}z^{a-b}$ is",
+      "choice:(A) 0",
+      "choice:(B) 1",
+      "choice:(C) $xyz$",
+      "choice:(D) $x^ay^bz^c$",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class11",
+      "chapter": "chapter6",
+      "timestamp": "20-1-2023 08:55:15 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  }
+]
