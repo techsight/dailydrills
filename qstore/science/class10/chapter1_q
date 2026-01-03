@@ -3,32 +3,224 @@
     "id": 1,
     "type": "quiz",
     "question": [
-      "If force $F$, mass $m$ and acceleration $a$ are related by Newton’s second law, which of the following is true?",
-      "choice:(A) $F = \\frac{m}{a}$",
-      "choice:(B) $F = ma$",
-      "choice:(C) $m = Fa$",
-      "choice:(D) $a = Fm$",
-      "answer:B"
+      "In which one of the following situations a chemical reaction does not occur?",
+      "choice:(A) Milk is left open at room temperature during summer",
+      "choice:(B) Grapes get fermented",
+      "choice:(C) An iron nail is left exposed to humid atmosphere",
+      "choice:(D) Melting of glaciers",
+      "answer:D"
     ],
     "tags": {},
-    "metadata": {
-      "title": ""
-    }
+    "metadata": { "title": "Delhi Set-1 Q1" }
   },
   {
     "id": 2,
     "type": "quiz",
     "question": [
-      "If voltage $V$, current $I$ and resistance $R$ are related by Ohm’s Law, then the value of $\\frac{V}{IR}$ is",
-      "choice:(A) 0",
-      "choice:(B) 1",
-      "choice:(C) $IR$",
-      "choice:(D) $VIR$",
+      "In order to prepare dry hydrogen chloride gas in humid atmosphere the gas produced is passed through a guard tube (drying tube) which contains:",
+      "choice:(A) Calcium chloride",
+      "choice:(B) Calcium oxide",
+      "choice:(C) Calcium hydroxide",
+      "choice:(D) Calcium carbonate",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q2" }
+  },
+  {
+    "id": 3,
+    "type": "quiz",
+    "question": [
+      "The property by virtue of which a solid material can be drawn into thin wires is called:",
+      "choice:(A) malleability",
+      "choice:(B) ductility",
+      "choice:(C) rigidity",
+      "choice:(D) resistivity",
       "answer:B"
     ],
     "tags": {},
-    "metadata": {
-      "title": ""
-    }
+    "metadata": { "title": "Delhi Set-1 Q3" }
+  },
+  {
+    "id": 4,
+    "type": "quiz",
+    "question": [
+      "Select from the following a hydrocarbon having one C–C bond and one C≡C bond:",
+      "choice:(A) Benzene",
+      "choice:(B) Cyclohexane",
+      "choice:(C) Butyne",
+      "choice:(D) Propyne",
+      "answer:D"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q4" }
+  },
+  {
+    "id": 5,
+    "type": "quiz",
+    "question": [
+      "The essential element taken up from the soil by the plants to synthesise proteins is:",
+      "choice:(A) Phosphorus",
+      "choice:(B) Nitrogen",
+      "choice:(C) Iron",
+      "choice:(D) Magnesium",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q5" }
+  },
+  {
+    "id": 6,
+    "type": "quiz",
+    "question": [
+      "Select TRUE statements about lymph from the following:\nA. Lymph vessels carry lymph through the body and finally open into larger arteries.\nB. Lymph contains some amount of plasma, proteins and blood cells.\nC. Lymph contains some amount of plasma, proteins and red blood cells.\nD. Lymph vessels carry lymph through the body and finally open into larger veins.\nThe true statements are:",
+      "choice:(A) A and B",
+      "choice:(B) B and D",
+      "choice:(C) A and C",
+      "choice:(D) C and D",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q6" }
+  },
+  {
+    "id": 7,
+    "type": "quiz",
+    "question": [
+      "Plants like rose and banana have lost the capacity to produce:",
+      "choice:(A) flowers",
+      "choice:(B) buds",
+      "choice:(C) seeds",
+      "choice:(D) fruits",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q7" }
+  },
+  {
+    "id": 8,
+    "type": "quiz",
+    "question": [
+      "In a bisexual flower the male gametes are present in the:",
+      "choice:(A) anther",
+      "choice:(B) ovary",
+      "choice:(C) stigma",
+      "choice:(D) filament",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q8" }
+  },
+  {
+    "id": 9,
+    "type": "quiz",
+    "question": [
+      "When a pure-tall pea plant is crossed with a pure-dwarf pea plant, the percentage of tall pea plants in F1 and F2 generation pea plants will be respectively:",
+      "choice:(A) 100%; 25%",
+      "choice:(B) 100%; 50%",
+      "choice:(C) 100%; 75%",
+      "choice:(D) 100%: 100%",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q9" }
+  },
+  {
+    "id": 10,
+    "type": "quiz",
+    "question": [
+      "To get an image of magnification -1 on a screen using a lens of focal length 20 cm, the object distance must be:",
+      "choice:(A) Less than 20 cm",
+      "choice:(B) 30 cm",
+      "choice:(C) 40 cm",
+      "choice:(D) 80 cm",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q10" }
+  },
+  {
+    "id": 11,
+    "type": "quiz",
+    "question": [
+      "An optical device ‘X’ is placed obliquely in the path of a narrow parallel beam of light. If the emergent beam gets displaced laterally, the device ‘X’ is:",
+      "choice:(A) plane mirror",
+      "choice:(B) convex lens",
+      "choice:(C) glass slab",
+      "choice:(D) glass prism",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q11" }
+  },
+  {
+    "id": 12,
+    "type": "quiz",
+    "question": [
+      "A piece of wire of resistance ‘R’ is cut lengthwise into three identical parts. These parts are then connected in parallel. If the equivalent resistance of this combination is R’, then the value of R/R’ is:",
+      "choice:(A) 1/9",
+      "choice:(B) 1/3",
+      "choice:(C) 3",
+      "choice:(D) 9",
+      "answer:D"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q12" }
+  },
+  {
+    "id": 13,
+    "type": "quiz",
+    "question": [
+      "An electric bulb is rated 220 V; 11W. The resistance of its filament when it glows with a power supply of 220 V is:",
+      "choice:(A) 4400 Ω",
+      "choice:(B) 440 Ω",
+      "choice:(C) 400 Ω",
+      "choice:(D) 20 Ω",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q13" }
+  },
+  {
+    "id": 14,
+    "type": "quiz",
+    "question": [
+      "The minimum number of identical bulbs of rating 4V; 6W, that can work safely with desired brightness, when connected in series with a 240 V mains supply is:",
+      "choice:(A) 20",
+      "choice:(B) 40",
+      "choice:(C) 60",
+      "choice:(D) 80",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q14" }
+  },
+  {
+    "id": 15,
+    "type": "quiz",
+    "question": [
+      "In the food chains given below, select the most efficient food chain in terms of energy:",
+      "choice:(A) Grass → Grasshopper → Frog → Snake",
+      "choice:(B) Plants → Deer → Lion",
+      "choice:(C) Plants → Man",
+      "choice:(D) Phytoplankton → Zooplankton → Small Fish → Big Fish",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q15" }
+  },
+  {
+    "id": 16,
+    "type": "quiz",
+    "question": [
+      "Which one of the following gets biomagnified at different levels in a food chain?",
+      "choice:(A) Carbon monoxide",
+      "choice:(B) CFC’s",
+      "choice:(C) DDT",
+      "choice:(D) Manure",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q16" }
   }
 ]
