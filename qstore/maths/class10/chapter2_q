@@ -1,18 +1,18 @@
 [
-{
-  "id": 1,
-  "type": "quiz",
-  "question": [
-    "If the sum of zeroes of the polynomial \\(2x^2 - k\\sqrt{2}\, x + \\frac{1}{2}\\) is \\(\\sqrt{2}\\), then value of k is:",
-    "choice:(A) \\(\\sqrt{2}\\)",
-    "choice:(B) 2",
-    "choice:(C) \\(2\\sqrt{2}\\)",
-    "choice:(D) \\(\\frac{1}{2}\\)",
-    "answer:B"
-  ],
-  "tags": {},
-  "metadata": { "title": "Corrected Delhi Set-1 Q1 (from image)" }
-},
+  {
+    "id": 1,
+    "type": "quiz",
+    "question": [
+      "If the sum of zeroes of the polynomial \\(2x^2 - k\\sqrt{2}\, x + \\frac{1}{2}\\) is \\(\\sqrt{2}\\), then value of k is:",
+      "choice:(A) \\(\\sqrt{2}\\)",
+      "choice:(B) 2",
+      "choice:(C) \\(2\\sqrt{2}\\)",
+      "choice:(D) \\(\\frac{1}{2}\\)",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Corrected Delhi Set-1 Q1 (from image)" }
+  },
   {
     "id": 2,
     "type": "quiz",
