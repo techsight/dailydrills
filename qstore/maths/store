@@ -12,12 +12,22 @@
         "title": "CBSE25-MCQ",
         "tags": ""
       }
+    },
+    {
+      "id": "class10+chapter2",
+      "metadata": {
+        "enddate": "2030-01-01",
+        "publish": "yes",
+        "title": "CBSE24-MCQ",
+        "tags": ""
+      }
     }
   ],
   "answers": [
     "class10+chapter1_a"
   ],
   "quizes": [
-    "class10+chapter1_q"
+    "class10+chapter1_q",
+    "class10+chapter2_q"
   ]
 }
