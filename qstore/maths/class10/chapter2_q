@@ -1,0 +1,735 @@
+[
+  {
+    "id": 1,
+    "type": "quiz",
+    "question": [
+      "If the sum of zeroes of the polynomial 2x² - kx + 1/2 is 1/2, then value of k is:",
+      "choice:(A) 1/2",
+      "choice:(B) 2",
+      "choice:(C) 2√2",
+      "choice:(D) 1/2",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q1" }
+  },
+  {
+    "id": 2,
+    "type": "quiz",
+    "question": [
+      "If the probability of a player winning a game is 0.79, then the probability of his losing the same game is:",
+      "choice:(A) 1.79",
+      "choice:(B) 0.31",
+      "choice:(C) 0.21%",
+      "choice:(D) 0.21",
+      "answer:D"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q2" }
+  },
+  {
+    "id": 3,
+    "type": "quiz",
+    "question": [
+      "If the roots of equation ax² + bx + c = 0, a ≠ 0 are real and equal, then which of the following relation is true?",
+      "choice:(A) a = b/c²",
+      "choice:(B) b² = ac",
+      "choice:(C) ac = b²/4",
+      "choice:(D) c = b/a²",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q3" }
+  },
+  {
+    "id": 4,
+    "type": "quiz",
+    "question": [
+      "In an A.P., if the first term a = 7, nth term aₙ = 84 and the sum of first n terms Sₙ = 2093/2, then n is equal to:",
+      "choice:(A) 22",
+      "choice:(B) 24",
+      "choice:(C) 23",
+      "choice:(D) 26",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q4" }
+  },
+  {
+    "id": 5,
+    "type": "quiz",
+    "question": [
+      "If two positive integers p and q can be expressed as p = 18a²b⁴ and q = 20a³b², where a and b are prime numbers, then LCM(p, q) is:",
+      "choice:(A) 2a²b²",
+      "choice:(B) 180a²b²",
+      "choice:(C) 12a²b²",
+      "choice:(D) 180a³b⁴",
+      "answer:D"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q5" }
+  },
+  {
+    "id": 6,
+    "type": "quiz",
+    "question": [
+      "AD is a median of ΔABC with vertices A(5, –6), B(6, 4) and C(0, 0). Length AD is equal to:",
+      "choice:(A) √68 units",
+      "choice:(B) 2√15 units",
+      "choice:(C) √101 units",
+      "choice:(D) 10 units",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q6" }
+  },
+  {
+    "id": 7,
+    "type": "quiz",
+    "question": [
+      "If sec θ – tan θ = m, then the value of sec θ + tan θ is:",
+      "choice:(A) 1/(1 – m)",
+      "choice:(B) m² – 1",
+      "choice:(C) 1/m",
+      "choice:(D) –m",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q7" }
+  },
+  {
+    "id": 8,
+    "type": "quiz",
+    "question": [
+      "From the data 1, 4, 7, 9, 16, 21, 25 if all the even numbers are removed, then the probability of getting at random a prime number from the remaining is:",
+      "choice:(A) 2/5",
+      "choice:(B) 1/5",
+      "choice:(C) 1/7",
+      "choice:(D) 2/7",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q8" }
+  },
+  {
+    "id": 9,
+    "type": "quiz",
+    "question": [
+      "From some data x₁, x₂, …, xₙ with respective frequencies f₁, f₂, …, fₙ, the value of Σfᵢ(xᵢ – x̄) is equal to:",
+      "choice:(A) nx̄",
+      "choice:(B) 1",
+      "choice:(C) Σfᵢ",
+      "choice:(D) 0",
+      "answer:D"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q9" }
+  },
+  {
+    "id": 10,
+    "type": "quiz",
+    "question": [
+      "The zeroes of a polynomial x² + px + q are twice the zeroes of the polynomial 4x² – 5x – 6. The value of p is:",
+      "choice:(A) –5/2",
+      "choice:(B) 5/2",
+      "choice:(C) –5",
+      "choice:(D) 10",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q10" }
+  },
+  {
+    "id": 11,
+    "type": "quiz",
+    "question": [
+      "If the distance between the points (3, –5) and (x, –5) is 15 units, then the values of x are:",
+      "choice:(A) 12, –18",
+      "choice:(B) –12, 18",
+      "choice:(C) 18, 5",
+      "choice:(D) –9, –12",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q11" }
+  },
+  {
+    "id": 12,
+    "type": "quiz",
+    "question": [
+      "If cos(α + β) = 0, then value of cos((α + β)/2) is equal to:",
+      "choice:(A) 1/2",
+      "choice:(B) 1/√2",
+      "choice:(C) 0",
+      "choice:(D) √2",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q12" }
+  },
+  {
+    "id": 13,
+    "type": "quiz",
+    "question": [
+      "A solid sphere is cut into two hemispheres. The ratio of the surface areas of sphere to that of two hemispheres taken together, is:",
+      "choice:(A) 1 : 1",
+      "choice:(B) 1 : 4",
+      "choice:(C) 2 : 3",
+      "choice:(D) 3 : 2",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q13" }
+  },
+  {
+    "id": 14,
+    "type": "quiz",
+    "question": [
+      "The middle most observation of every data arranged in order is called:",
+      "choice:(A) mode",
+      "choice:(B) median",
+      "choice:(C) mean",
+      "choice:(D) deviation",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q14" }
+  },
+  {
+    "id": 15,
+    "type": "quiz",
+    "question": [
+      "The volume of the largest right circular cone that can be carved out from a solid cube of edge 2 cm is:",
+      "choice:(A) 4π/3 cu cm",
+      "choice:(B) 5π/3 cu cm",
+      "choice:(C) 8π/3 cu cm",
+      "choice:(D) 2π/3 cu cm",
+      "answer:D"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q15" }
+  },
+  {
+    "id": 16,
+    "type": "quiz",
+    "question": [
+      "Two dice are rolled together. The probability of getting sum of numbers on the two dice as 2, 3 or 5, is:",
+      "choice:(A) 7/36",
+      "choice:(B) 11/36",
+      "choice:(C) 5/36",
+      "choice:(D) 4/9",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q16" }
+  },
+  {
+    "id": 17,
+    "type": "quiz",
+    "question": [
+      "The centre of a circle is at (2, 0). If one end of a diameter is at (6, 0), then the other end is at:",
+      "choice:(A) (0, 0)",
+      "choice:(B) (4, 0)",
+      "choice:(C) (–2, 0)",
+      "choice:(D) (–6, 0)",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q17" }
+  },
+  {
+    "id": 18,
+    "type": "quiz",
+    "question": [
+      "In the given figure, graphs of two linear equations are shown. The pair of these linear equations is:",
+      "choice:(A) consistent with unique solution",
+      "choice:(B) consistent with infinitely many solutions",
+      "choice:(C) inconsistent",
+      "choice:(D) inconsistent but can be made consistent by extending these lines",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-1 Q18 (image-based, typically excluded)" }
+  },
+
+  {
+    "id": 19,
+    "type": "quiz",
+    "question": [
+      "If sin A = 2/3, then value of cot A is:",
+      "choice:(A) √5/2",
+      "choice:(B) 3/2",
+      "choice:(C) √5/4",
+      "choice:(D) 2/3",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-2 Q4" }
+  },
+  {
+    "id": 20,
+    "type": "quiz",
+    "question": [
+      "Which of the following is not probability of an event?",
+      "choice:(A) 0.89",
+      "choice:(B) 52%",
+      "choice:(C) 1 13%",
+      "choice:(D) 1/0.89",
+      "answer:D"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-2 Q7" }
+  },
+  {
+    "id": 21,
+    "type": "quiz",
+    "question": [
+      "If the sum and the product of zeroes of a quadratic polynomial are 2√3 and 3 respectively, then a quadratic polynomial is:",
+      "choice:(A) x² + 2√3x – 3",
+      "choice:(B) (x – (3 – 2√3))",
+      "choice:(C) x² – 2√3x – 3",
+      "choice:(D) x² + 2√3x + 3",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-2 Q13" }
+  },
+  {
+    "id": 22,
+    "type": "quiz",
+    "question": [
+      "nᵗʰ term of an A.P. is 7n + 4. The common difference is:",
+      "choice:(A) 7n",
+      "choice:(B) 4",
+      "choice:(C) 7",
+      "choice:(D) 1",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-2 Q17" }
+  },
+
+  {
+    "id": 23,
+    "type": "quiz",
+    "question": [
+      "In an A.P., if the first term (a) = –16 and the common difference (d) = –2, then the sum of first 10 terms is:",
+      "choice:(A) –200",
+      "choice:(B) –70",
+      "choice:(C) –250",
+      "choice:(D) 250",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-3 Q2" }
+  },
+  {
+    "id": 24,
+    "type": "quiz",
+    "question": [
+      "One card is drawn at random from a well shuffled deck of 52 playing cards. The probability that it is a red ace card, is:",
+      "choice:(A) 1/13",
+      "choice:(B) 1/26",
+      "choice:(C) 1/52",
+      "choice:(D) 1/2",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-3 Q7" }
+  },
+  {
+    "id": 25,
+    "type": "quiz",
+    "question": [
+      "For θ = 30°, the value of (2 sin θ cos θ) is:",
+      "choice:(A) 1",
+      "choice:(B) √3/2",
+      "choice:(C) √3/4",
+      "choice:(D) 3/2",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-3 Q9" }
+  },
+  {
+    "id": 26,
+    "type": "quiz",
+    "question": [
+      "If α, β are the zeroes of the polynomial 6x² – 5x – 4, then (1/α + 1/β) is equal to:",
+      "choice:(A) 5/4",
+      "choice:(B) –5/4",
+      "choice:(C) 4/5",
+      "choice:(D) 5/24",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Delhi Set-3 Q16" }
+  },
+
+  {
+    "id": 27,
+    "type": "quiz",
+    "question": [
+      "The value of k for which the system of equations 3x – y + 8 = 0 and 6x – ky + 16 = 0 has infinitely many solutions, is:",
+      "choice:(A) –2",
+      "choice:(B) 2",
+      "choice:(C) 1/2",
+      "choice:(D) –1/2",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q1" }
+  },
+  {
+    "id": 28,
+    "type": "quiz",
+    "question": [
+      "Point P divides the line segment joining the points A(4, –5) and B(1, 2) in the ratio 5 : 2. Co-ordinates of point P are",
+      "choice:(A) (5/2, 3/2)",
+      "choice:(B) (11/7, 0)",
+      "choice:(C) (13/7, 0)",
+      "choice:(D) (0, 13/7)",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q2" }
+  },
+  {
+    "id": 29,
+    "type": "quiz",
+    "question": [
+      "The common difference of an A.P. in which a₁₅ – a₁₁ = 48, is",
+      "choice:(A) 12",
+      "choice:(B) 16",
+      "choice:(C) –12",
+      "choice:(D) –16",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q3" }
+  },
+  {
+    "id": 30,
+    "type": "quiz",
+    "question": [
+      "The quadratic equation x² + x + 1 = 0 has ................. roots.",
+      "choice:(A) real and equal",
+      "choice:(B) irrational",
+      "choice:(C) real and distinct",
+      "choice:(D) not-real",
+      "answer:D"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q4" }
+  },
+  {
+    "id": 31,
+    "type": "quiz",
+    "question": [
+      "If HCF(2520, 6600) = 40 and LCM(2520, 6600) = 252 × k, then the value of k is",
+      "choice:(A) 1650",
+      "choice:(B) 1600",
+      "choice:(C) 165",
+      "choice:(D) 1625",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q5" }
+  },
+  {
+    "id": 32,
+    "type": "quiz",
+    "question": [
+      "In the given figure △ABC is shown. DE is parallel to BC. If AD = 5 cm, DB = 2.5 cm and BC = 12 cm, then DE is equal to",
+      "choice:(A) 10 cm",
+      "choice:(B) 6 cm",
+      "choice:(C) 8 cm",
+      "choice:(D) 7.5 cm",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q6 (geometry-figure based)" }
+  },
+  {
+    "id": 33,
+    "type": "quiz",
+    "question": [
+      "If sin θ = cos θ, (0° < θ < 90°), then value of (sec θ · sin θ) is:",
+      "choice:(A) 1/2",
+      "choice:(B) √2",
+      "choice:(C) 1",
+      "choice:(D) 0",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q7" }
+  },
+  {
+    "id": 34,
+    "type": "quiz",
+    "question": [
+      "Two dice are rolled together. The probability of getting the sum of the two numbers to be more than 10, is",
+      "choice:(A) 1/9",
+      "choice:(B) 1/6",
+      "choice:(C) 7/12",
+      "choice:(D) 1/12",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q8" }
+  },
+  {
+    "id": 35,
+    "type": "quiz",
+    "question": [
+      "If α and β are zeroes of the polynomial 5x² + 3x – 7, the value of (1/α + 1/β) is",
+      "choice:(A) –3/7",
+      "choice:(B) 3/5",
+      "choice:(C) 3/7",
+      "choice:(D) –5/7",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q9" }
+  },
+  {
+    "id": 36,
+    "type": "quiz",
+    "question": [
+      "The perimeters of two similar triangles ABC and PQR are 56 cm and 48 cm respectively. PQ/AB is equal to",
+      "choice:(A) 7/8",
+      "choice:(B) 6/7",
+      "choice:(C) 7/6",
+      "choice:(D) 8/7",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q10" }
+  },
+  {
+    "id": 37,
+    "type": "quiz",
+    "question": [
+      "AB and CD are two chords of a circle intersecting at P. Choose the correct statement from the following:",
+      "choice:(A) ∠ADP ≅ ∠CBA",
+      "choice:(B) ∠ADP ≅ ∠BPC",
+      "choice:(C) ∠ADP ≅ ∠BCP",
+      "choice:(D) ∠ADP ≅ ∠CBP",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q11 (figure-based)" }
+  },
+  {
+    "id": 38,
+    "type": "quiz",
+    "question": [
+      "If value of each observation in a data is increased by 2, then median of the new data",
+      "choice:(A) increases by 2",
+      "choice:(B) increases by 2n",
+      "choice:(C) remains same",
+      "choice:(D) decreases by 2",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q12" }
+  },
+  {
+    "id": 39,
+    "type": "quiz",
+    "question": [
+      "A box contains cards numbered 6 to 55. A card is drawn at random from the box. The probability that the drawn card has a number which is a perfect square, is",
+      "choice:(A) 7/50",
+      "choice:(B) 7/55",
+      "choice:(C) 1/10",
+      "choice:(D) 5/49",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q13" }
+  },
+  {
+    "id": 40,
+    "type": "quiz",
+    "question": [
+      "In the given figure, tangents PA and PB to the circle centred at O, from point P are perpendicular to each other. If PA = 5 cm, then length of AB is equal to",
+      "choice:(A) 5 cm",
+      "choice:(B) 5√2 cm",
+      "choice:(C) 2√5 cm",
+      "choice:(D) 10 cm",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q14 (figure-based)" }
+  },
+  {
+    "id": 41,
+    "type": "quiz",
+    "question": [
+      "XOYZ is a rectangle with vertices X(–3, 0), O(0, 0), Y(0, 4) and Z(x, y). The length of its each diagonal is",
+      "choice:(A) 5 units",
+      "choice:(B) √5 units",
+      "choice:(C) x² + y² units",
+      "choice:(D) 4 units",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q15" }
+  },
+  {
+    "id": 42,
+    "type": "quiz",
+    "question": [
+      "Which term of the A.P. –29, –26, –23, ..., 61 is 16?",
+      "choice:(A) 11th",
+      "choice:(B) 16th",
+      "choice:(C) 10th",
+      "choice:(D) 31st",
+      "answer:D"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q16" }
+  },
+  {
+    "id": 43,
+    "type": "quiz",
+    "question": [
+      "In the given figure, AT is tangent to a circle centred at O. If ∠CAT = 40°, then ∠CBA is equal to",
+      "choice:(A) 70°",
+      "choice:(B) 50°",
+      "choice:(C) 65°",
+      "choice:(D) 40°",
+      "answer:D"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q17 (figure-based)" }
+  },
+  {
+    "id": 44,
+    "type": "quiz",
+    "question": [
+      "After an examination, a teacher wants to know the marks obtained by maximum number of the students in her class. She requires to calculate ................. of marks.",
+      "choice:(A) median",
+      "choice:(B) mode",
+      "choice:(C) mean",
+      "choice:(D) range",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q18" }
+  },
+
+  {
+    "id": 45,
+    "type": "quiz",
+    "question": [
+      "In the given figure, PT is tangent to a circle with centre O. Chord PQ subtends an angle of 65° at the centre. The measure of ∠QPT is:",
+      "choice:(A) 65°",
+      "choice:(B) 57.5°",
+      "choice:(C) 67.5°",
+      "choice:(D) 32.5°",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-2 Q2 (figure-based)" }
+  },
+  {
+    "id": 46,
+    "type": "quiz",
+    "question": [
+      "If α and β are zeroes of the polynomial 2x² – 9x + 5, then value of α² + β² is",
+      "choice:(A) 1/4",
+      "choice:(B) 61/4",
+      "choice:(C) 1",
+      "choice:(D) 71/4",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-2 Q6" }
+  },
+  {
+    "id": 47,
+    "type": "quiz",
+    "question": [
+      "Value of k for which x = 2 is a solution of the equation 5x² – 4x + (2 + k) = 0, is",
+      "choice:(A) 10",
+      "choice:(B) –10",
+      "choice:(C) 14",
+      "choice:(D) –14",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-2 Q13" }
+  },
+  {
+    "id": 48,
+    "type": "quiz",
+    "question": [
+      "The sum of first 200 natural numbers is",
+      "choice:(A) 2010",
+      "choice:(B) 2000",
+      "choice:(C) 20100",
+      "choice:(D) 21000",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-2 Q15" }
+  },
+
+  {
+    "id": 49,
+    "type": "quiz",
+    "question": [
+      "The distance between the points (a cos θ, –a sin θ) and (a sin θ, a cos θ) is",
+      "choice:(A) a",
+      "choice:(B) a√2",
+      "choice:(C) 0",
+      "choice:(D) 2a",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-3 Q1" }
+  },
+  {
+    "id": 50,
+    "type": "quiz",
+    "question": [
+      "The roots of the quadratic equation 4x² – 5x + 4 = 0 are",
+      "choice:(A) irrational",
+      "choice:(B) rational and distinct",
+      "choice:(C) not real",
+      "choice:(D) rational and equal",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-3 Q8" }
+  },
+  {
+    "id": 51,
+    "type": "quiz",
+    "question": [
+      "The common difference of an A.P. in which a₂₀ – a₁₅ = 20, is",
+      "choice:(A) 4",
+      "choice:(B) 5",
+      "choice:(C) 4d",
+      "choice:(D) 5d",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-3 Q9" }
+  },
+  {
+    "id": 52,
+    "type": "quiz",
+    "question": [
+      "If a and b(a > b) are the zeroes of the polynomial –x² + 8x + 9, then (a – b) is equal to",
+      "choice:(A) –10",
+      "choice:(B) 10",
+      "choice:(C) ±10",
+      "choice:(D) 8",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-3 Q12" }
+  }
+]
