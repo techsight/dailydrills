@@ -1,18 +1,18 @@
 [
-  {
-    "id": 1,
-    "type": "quiz",
-    "question": [
-      "If the sum of zeroes of the polynomial 2x² - kx + 1/2 is 1/2, then value of k is:",
-      "choice:(A) 1/2",
-      "choice:(B) 2",
-      "choice:(C) 2√2",
-      "choice:(D) 1/2",
-      "answer:B"
-    ],
-    "tags": {},
-    "metadata": { "title": "Delhi Set-1 Q1" }
-  },
+{
+  "id": 1,
+  "type": "quiz",
+  "question": [
+    "If the sum of zeroes of the polynomial \\(2x^2 - k\\sqrt{2}\, x + \\frac{1}{2}\\) is \\(\\sqrt{2}\\), then value of k is:",
+    "choice:(A) \\(\\sqrt{2}\\)",
+    "choice:(B) 2",
+    "choice:(C) \\(2\\sqrt{2}\\)",
+    "choice:(D) \\(\\frac{1}{2}\\)",
+    "answer:B"
+  ],
+  "tags": {},
+  "metadata": { "title": "Corrected Delhi Set-1 Q1 (from image)" }
+},
   {
     "id": 2,
     "type": "quiz",
@@ -31,11 +31,11 @@
     "id": 3,
     "type": "quiz",
     "question": [
-      "If the roots of equation ax² + bx + c = 0, a ≠ 0 are real and equal, then which of the following relation is true?",
-      "choice:(A) a = b/c²",
-      "choice:(B) b² = ac",
-      "choice:(C) ac = b²/4",
-      "choice:(D) c = b/a²",
+      "If the roots of equation \\(ax^2 + bx + c = 0\\), \\(a \\neq 0\\) are real and equal, then which of the following relation is true?",
+      "choice:(A) \\(a = \\frac{b}{c^2}\\)",
+      "choice:(B) \\(b^2 = ac\\)",
+      "choice:(C) \\(ac = \\frac{b^2}{4}\\)",
+      "choice:(D) \\(c = \\frac{b}{a^2}\\)",
       "answer:C"
     ],
     "tags": {},
@@ -45,7 +45,7 @@
     "id": 4,
     "type": "quiz",
     "question": [
-      "In an A.P., if the first term a = 7, nth term aₙ = 84 and the sum of first n terms Sₙ = 2093/2, then n is equal to:",
+      "In an A.P., if the first term \\(a = 7\\), nth term \\(a_n = 84\\) and the sum of first n terms \\(S_n = \\frac{2093}{2}\\), then n is equal to:",
       "choice:(A) 22",
       "choice:(B) 24",
       "choice:(C) 23",
@@ -59,11 +59,11 @@
     "id": 5,
     "type": "quiz",
     "question": [
-      "If two positive integers p and q can be expressed as p = 18a²b⁴ and q = 20a³b², where a and b are prime numbers, then LCM(p, q) is:",
-      "choice:(A) 2a²b²",
-      "choice:(B) 180a²b²",
-      "choice:(C) 12a²b²",
-      "choice:(D) 180a³b⁴",
+      "If two positive integers p and q can be expressed as \\(p = 18a^2b^4\\) and \\(q = 20a^3b^2\\), where a and b are prime numbers, then LCM(p, q) is:",
+      "choice:(A) \\(2a^2b^2\\)",
+      "choice:(B) \\(180a^2b^2\\)",
+      "choice:(C) \\(12a^2b^2\\)",
+      "choice:(D) \\(180a^3b^4\\)",
       "answer:D"
     ],
     "tags": {},
@@ -73,10 +73,10 @@
     "id": 6,
     "type": "quiz",
     "question": [
-      "AD is a median of ΔABC with vertices A(5, –6), B(6, 4) and C(0, 0). Length AD is equal to:",
-      "choice:(A) √68 units",
-      "choice:(B) 2√15 units",
-      "choice:(C) √101 units",
+      "AD is a median of \\(\\Delta ABC\\) with vertices A(5, –6), B(6, 4) and C(0, 0). Length AD is equal to:",
+      "choice:(A) \\(\\sqrt{68}\\) units",
+      "choice:(B) \\(2\\sqrt{15}\\) units",
+      "choice:(C) \\(\\sqrt{101}\\) units",
       "choice:(D) 10 units",
       "answer:A"
     ],
@@ -87,10 +87,10 @@
     "id": 7,
     "type": "quiz",
     "question": [
-      "If sec θ – tan θ = m, then the value of sec θ + tan θ is:",
-      "choice:(A) 1/(1 – m)",
-      "choice:(B) m² – 1",
-      "choice:(C) 1/m",
+      "If \\(\\sec \\theta - \\tan \\theta = m\\), then the value of \\(\\sec \\theta + \\tan \\theta\\) is:",
+      "choice:(A) \\(\\frac{1}{1 - m}\\)",
+      "choice:(B) \\(m^2 - 1\\)",
+      "choice:(C) \\(\\frac{1}{m}\\)",
       "choice:(D) –m",
       "answer:C"
     ],
@@ -102,10 +102,10 @@
     "type": "quiz",
     "question": [
       "From the data 1, 4, 7, 9, 16, 21, 25 if all the even numbers are removed, then the probability of getting at random a prime number from the remaining is:",
-      "choice:(A) 2/5",
-      "choice:(B) 1/5",
-      "choice:(C) 1/7",
-      "choice:(D) 2/7",
+      "choice:(A) \\(\\frac{2}{5}\\)",
+      "choice:(B) \\(\\frac{1}{5}\\)",
+      "choice:(C) \\(\\frac{1}{7}\\)",
+      "choice:(D) \\(\\frac{2}{7}\\)",
       "answer:B"
     ],
     "tags": {},
@@ -115,10 +115,10 @@
     "id": 9,
     "type": "quiz",
     "question": [
-      "From some data x₁, x₂, …, xₙ with respective frequencies f₁, f₂, …, fₙ, the value of Σfᵢ(xᵢ – x̄) is equal to:",
-      "choice:(A) nx̄",
+      "From some data \\(x_1, x_2, \\dots, x_n\\) with respective frequencies \\(f_1, f_2, \\dots, f_n\\), the value of \\(\\sum f_i(x_i - \\bar{x})\\) is equal to:",
+      "choice:(A) \\(n\\bar{x}\\)",
       "choice:(B) 1",
-      "choice:(C) Σfᵢ",
+      "choice:(C) \\(\\sum f_i\\)",
       "choice:(D) 0",
       "answer:D"
     ],
@@ -129,9 +129,9 @@
     "id": 10,
     "type": "quiz",
     "question": [
-      "The zeroes of a polynomial x² + px + q are twice the zeroes of the polynomial 4x² – 5x – 6. The value of p is:",
-      "choice:(A) –5/2",
-      "choice:(B) 5/2",
+      "The zeroes of a polynomial \\(x^2 + px + q\\) are twice the zeroes of the polynomial \\(4x^2 - 5x - 6\\). The value of p is:",
+      "choice:(A) \\(-\\frac{5}{2}\\)",
+      "choice:(B) \\(\\frac{5}{2}\\)",
       "choice:(C) –5",
       "choice:(D) 10",
       "answer:A"
@@ -157,11 +157,11 @@
     "id": 12,
     "type": "quiz",
     "question": [
-      "If cos(α + β) = 0, then value of cos((α + β)/2) is equal to:",
-      "choice:(A) 1/2",
-      "choice:(B) 1/√2",
+      "If \\(\\cos(\\alpha + \\beta) = 0\\), then value of \\(\\cos\\left(\\frac{\\alpha + \\beta}{2}\\right)\\) is equal to:",
+      "choice:(A) \\(\\frac{1}{2}\\)",
+      "choice:(B) \\(\\frac{1}{\\sqrt{2}}\\)",
       "choice:(C) 0",
-      "choice:(D) √2",
+      "choice:(D) \\(\\sqrt{2}\\)",
       "answer:A"
     ],
     "tags": {},
@@ -200,10 +200,10 @@
     "type": "quiz",
     "question": [
       "The volume of the largest right circular cone that can be carved out from a solid cube of edge 2 cm is:",
-      "choice:(A) 4π/3 cu cm",
-      "choice:(B) 5π/3 cu cm",
-      "choice:(C) 8π/3 cu cm",
-      "choice:(D) 2π/3 cu cm",
+      "choice:(A) \\(\\frac{4\\pi}{3}\\) cu cm",
+      "choice:(B) \\(\\frac{5\\pi}{3}\\) cu cm",
+      "choice:(C) \\(\\frac{8\\pi}{3}\\) cu cm",
+      "choice:(D) \\(\\frac{2\\pi}{3}\\) cu cm",
       "answer:D"
     ],
     "tags": {},
@@ -214,10 +214,10 @@
     "type": "quiz",
     "question": [
       "Two dice are rolled together. The probability of getting sum of numbers on the two dice as 2, 3 or 5, is:",
-      "choice:(A) 7/36",
-      "choice:(B) 11/36",
-      "choice:(C) 5/36",
-      "choice:(D) 4/9",
+      "choice:(A) \\(\\frac{7}{36}\\)",
+      "choice:(B) \\(\\frac{11}{36}\\)",
+      "choice:(C) \\(\\frac{5}{36}\\)",
+      "choice:(D) \\(\\frac{4}{9}\\)",
       "answer:A"
     ],
     "tags": {},
@@ -238,29 +238,14 @@
     "metadata": { "title": "Delhi Set-1 Q17" }
   },
   {
-    "id": 18,
-    "type": "quiz",
-    "question": [
-      "In the given figure, graphs of two linear equations are shown. The pair of these linear equations is:",
-      "choice:(A) consistent with unique solution",
-      "choice:(B) consistent with infinitely many solutions",
-      "choice:(C) inconsistent",
-      "choice:(D) inconsistent but can be made consistent by extending these lines",
-      "answer:C"
-    ],
-    "tags": {},
-    "metadata": { "title": "Delhi Set-1 Q18 (image-based, typically excluded)" }
-  },
-
-  {
     "id": 19,
     "type": "quiz",
     "question": [
-      "If sin A = 2/3, then value of cot A is:",
-      "choice:(A) √5/2",
-      "choice:(B) 3/2",
-      "choice:(C) √5/4",
-      "choice:(D) 2/3",
+      "If \\(\\sin A = \\frac{2}{3}\\), then value of \\(\\cot A\\) is:",
+      "choice:(A) \\(\\frac{\\sqrt{5}}{2}\\)",
+      "choice:(B) \\(\\frac{3}{2}\\)",
+      "choice:(C) \\(\\frac{\\sqrt{5}}{4}\\)",
+      "choice:(D) \\(\\frac{2}{3}\\)",
       "answer:A"
     ],
     "tags": {},
@@ -273,8 +258,8 @@
       "Which of the following is not probability of an event?",
       "choice:(A) 0.89",
       "choice:(B) 52%",
-      "choice:(C) 1 13%",
-      "choice:(D) 1/0.89",
+      "choice:(C) \\(1\\, 13\\%\\)",
+      "choice:(D) \\(\\frac{1}{0.89}\\)",
       "answer:D"
     ],
     "tags": {},
@@ -284,11 +269,11 @@
     "id": 21,
     "type": "quiz",
     "question": [
-      "If the sum and the product of zeroes of a quadratic polynomial are 2√3 and 3 respectively, then a quadratic polynomial is:",
-      "choice:(A) x² + 2√3x – 3",
-      "choice:(B) (x – (3 – 2√3))",
-      "choice:(C) x² – 2√3x – 3",
-      "choice:(D) x² + 2√3x + 3",
+      "If the sum and the product of zeroes of a quadratic polynomial are \\(2\\sqrt{3}\\) and 3 respectively, then a quadratic polynomial is:",
+      "choice:(A) \\(x^2 + 2\\sqrt{3}x - 3\\)",
+      "choice:(B) \\((x - (3 - 2\\sqrt{3}))\\)",
+      "choice:(C) \\(x^2 - 2\\sqrt{3}x - 3\\)",
+      "choice:(D) \\(x^2 + 2\\sqrt{3}x + 3\\)",
       "answer:B"
     ],
     "tags": {},
@@ -298,7 +283,7 @@
     "id": 22,
     "type": "quiz",
     "question": [
-      "nᵗʰ term of an A.P. is 7n + 4. The common difference is:",
+      "\\(n^{th}\\) term of an A.P. is \\(7n + 4\\). The common difference is:",
       "choice:(A) 7n",
       "choice:(B) 4",
       "choice:(C) 7",
@@ -308,12 +293,11 @@
     "tags": {},
     "metadata": { "title": "Delhi Set-2 Q17" }
   },
-
   {
     "id": 23,
     "type": "quiz",
     "question": [
-      "In an A.P., if the first term (a) = –16 and the common difference (d) = –2, then the sum of first 10 terms is:",
+      "In an A.P., if the first term \\((a) = -16\\) and the common difference \\((d) = -2\\), then the sum of first 10 terms is:",
       "choice:(A) –200",
       "choice:(B) –70",
       "choice:(C) –250",
@@ -328,10 +312,10 @@
     "type": "quiz",
     "question": [
       "One card is drawn at random from a well shuffled deck of 52 playing cards. The probability that it is a red ace card, is:",
-      "choice:(A) 1/13",
-      "choice:(B) 1/26",
-      "choice:(C) 1/52",
-      "choice:(D) 1/2",
+      "choice:(A) \\(\\frac{1}{13}\\)",
+      "choice:(B) \\(\\frac{1}{26}\\)",
+      "choice:(C) \\(\\frac{1}{52}\\)",
+      "choice:(D) \\(\\frac{1}{2}\\)",
       "answer:B"
     ],
     "tags": {},
@@ -341,11 +325,11 @@
     "id": 25,
     "type": "quiz",
     "question": [
-      "For θ = 30°, the value of (2 sin θ cos θ) is:",
+      "For \\(\\theta = 30^\\circ\\), the value of \\((2 \\sin \\theta \\cos \\theta)\\) is:",
       "choice:(A) 1",
-      "choice:(B) √3/2",
-      "choice:(C) √3/4",
-      "choice:(D) 3/2",
+      "choice:(B) \\(\\frac{\\sqrt{3}}{2}\\)",
+      "choice:(C) \\(\\frac{\\sqrt{3}}{4}\\)",
+      "choice:(D) \\(\\frac{3}{2}\\)",
       "answer:B"
     ],
     "tags": {},
@@ -355,26 +339,25 @@
     "id": 26,
     "type": "quiz",
     "question": [
-      "If α, β are the zeroes of the polynomial 6x² – 5x – 4, then (1/α + 1/β) is equal to:",
-      "choice:(A) 5/4",
-      "choice:(B) –5/4",
-      "choice:(C) 4/5",
-      "choice:(D) 5/24",
+      "If \\(\\alpha, \\beta\\) are the zeroes of the polynomial \\(6x^2 - 5x - 4\\), then \\(\\left(\\frac{1}{\\alpha} + \\frac{1}{\\beta}\\right)\\) is equal to:",
+      "choice:(A) \\(\\frac{5}{4}\\)",
+      "choice:(B) \\(-\\frac{5}{4}\\)",
+      "choice:(C) \\(\\frac{4}{5}\\)",
+      "choice:(D) \\(\\frac{5}{24}\\)",
       "answer:B"
     ],
     "tags": {},
     "metadata": { "title": "Delhi Set-3 Q16" }
   },
-
   {
     "id": 27,
     "type": "quiz",
     "question": [
-      "The value of k for which the system of equations 3x – y + 8 = 0 and 6x – ky + 16 = 0 has infinitely many solutions, is:",
+      "The value of k for which the system of equations \\(3x - y + 8 = 0\\) and \\(6x - ky + 16 = 0\\) has infinitely many solutions, is:",
       "choice:(A) –2",
       "choice:(B) 2",
-      "choice:(C) 1/2",
-      "choice:(D) –1/2",
+      "choice:(C) \\(\\frac{1}{2}\\)",
+      "choice:(D) \\(-\\frac{1}{2}\\)",
       "answer:B"
     ],
     "tags": {},
@@ -385,10 +368,10 @@
     "type": "quiz",
     "question": [
       "Point P divides the line segment joining the points A(4, –5) and B(1, 2) in the ratio 5 : 2. Co-ordinates of point P are",
-      "choice:(A) (5/2, 3/2)",
-      "choice:(B) (11/7, 0)",
-      "choice:(C) (13/7, 0)",
-      "choice:(D) (0, 13/7)",
+      "choice:(A) \\(\\left(\\frac{5}{2}, \\frac{3}{2}\\right)\\)",
+      "choice:(B) \\(\\left(\\frac{11}{7}, 0\\right)\\)",
+      "choice:(C) \\(\\left(\\frac{13}{7}, 0\\right)\\)",
+      "choice:(D) \\(\\left(0, \\frac{13}{7}\\right)\\)",
       "answer:C"
     ],
     "tags": {},
@@ -398,7 +381,7 @@
     "id": 29,
     "type": "quiz",
     "question": [
-      "The common difference of an A.P. in which a₁₅ – a₁₁ = 48, is",
+      "The common difference of an A.P. in which \\(a_{15} - a_{11} = 48\\), is",
       "choice:(A) 12",
       "choice:(B) 16",
       "choice:(C) –12",
@@ -412,7 +395,7 @@
     "id": 30,
     "type": "quiz",
     "question": [
-      "The quadratic equation x² + x + 1 = 0 has ................. roots.",
+      "The quadratic equation \\(x^2 + x + 1 = 0\\) has ................. roots.",
       "choice:(A) real and equal",
       "choice:(B) irrational",
       "choice:(C) real and distinct",
@@ -437,26 +420,12 @@
     "metadata": { "title": "Outside Delhi Set-1 Q5" }
   },
   {
-    "id": 32,
-    "type": "quiz",
-    "question": [
-      "In the given figure △ABC is shown. DE is parallel to BC. If AD = 5 cm, DB = 2.5 cm and BC = 12 cm, then DE is equal to",
-      "choice:(A) 10 cm",
-      "choice:(B) 6 cm",
-      "choice:(C) 8 cm",
-      "choice:(D) 7.5 cm",
-      "answer:C"
-    ],
-    "tags": {},
-    "metadata": { "title": "Outside Delhi Set-1 Q6 (geometry-figure based)" }
-  },
-  {
     "id": 33,
     "type": "quiz",
     "question": [
-      "If sin θ = cos θ, (0° < θ < 90°), then value of (sec θ · sin θ) is:",
-      "choice:(A) 1/2",
-      "choice:(B) √2",
+      "If \\(\\sin \\theta = \\cos \\theta\\), \\((0^\\circ < \\theta < 90^\\circ)\\), then value of \\(\\sec \\theta \\cdot \\sin \\theta\\) is:",
+      "choice:(A) \\(\\frac{1}{2}\\)",
+      "choice:(B) \\(\\sqrt{2}\\)",
       "choice:(C) 1",
       "choice:(D) 0",
       "answer:C"
@@ -469,10 +438,10 @@
     "type": "quiz",
     "question": [
       "Two dice are rolled together. The probability of getting the sum of the two numbers to be more than 10, is",
-      "choice:(A) 1/9",
-      "choice:(B) 1/6",
-      "choice:(C) 7/12",
-      "choice:(D) 1/12",
+      "choice:(A) \\(\\frac{1}{9}\\)",
+      "choice:(B) \\(\\frac{1}{6}\\)",
+      "choice:(C) \\(\\frac{7}{12}\\)",
+      "choice:(D) \\(\\frac{1}{12}\\)",
       "answer:B"
     ],
     "tags": {},
@@ -482,11 +451,11 @@
     "id": 35,
     "type": "quiz",
     "question": [
-      "If α and β are zeroes of the polynomial 5x² + 3x – 7, the value of (1/α + 1/β) is",
-      "choice:(A) –3/7",
-      "choice:(B) 3/5",
-      "choice:(C) 3/7",
-      "choice:(D) –5/7",
+      "If \\(\\alpha\\) and \\(\\beta\\) are zeroes of the polynomial \\(5x^2 + 3x - 7\\), the value of \\(\\frac{1}{\\alpha} + \\frac{1}{\\beta}\\) is",
+      "choice:(A) \\(-\\frac{3}{7}\\)",
+      "choice:(B) \\(\\frac{3}{5}\\)",
+      "choice:(C) \\(\\frac{3}{7}\\)",
+      "choice:(D) \\(-\\frac{5}{7}\\)",
       "answer:A"
     ],
     "tags": {},
@@ -496,29 +465,15 @@
     "id": 36,
     "type": "quiz",
     "question": [
-      "The perimeters of two similar triangles ABC and PQR are 56 cm and 48 cm respectively. PQ/AB is equal to",
-      "choice:(A) 7/8",
-      "choice:(B) 6/7",
-      "choice:(C) 7/6",
-      "choice:(D) 8/7",
+      "The perimeters of two similar triangles ABC and PQR are 56 cm and 48 cm respectively. \\(\\frac{PQ}{AB}\\) is equal to",
+      "choice:(A) \\(\\frac{7}{8}\\)",
+      "choice:(B) \\(\\frac{6}{7}\\)",
+      "choice:(C) \\(\\frac{7}{6}\\)",
+      "choice:(D) \\(\\frac{8}{7}\\)",
       "answer:A"
     ],
     "tags": {},
     "metadata": { "title": "Outside Delhi Set-1 Q10" }
-  },
-  {
-    "id": 37,
-    "type": "quiz",
-    "question": [
-      "AB and CD are two chords of a circle intersecting at P. Choose the correct statement from the following:",
-      "choice:(A) ∠ADP ≅ ∠CBA",
-      "choice:(B) ∠ADP ≅ ∠BPC",
-      "choice:(C) ∠ADP ≅ ∠BCP",
-      "choice:(D) ∠ADP ≅ ∠CBP",
-      "answer:B"
-    ],
-    "tags": {},
-    "metadata": { "title": "Outside Delhi Set-1 Q11 (figure-based)" }
   },
   {
     "id": 38,
@@ -539,28 +494,14 @@
     "type": "quiz",
     "question": [
       "A box contains cards numbered 6 to 55. A card is drawn at random from the box. The probability that the drawn card has a number which is a perfect square, is",
-      "choice:(A) 7/50",
-      "choice:(B) 7/55",
-      "choice:(C) 1/10",
-      "choice:(D) 5/49",
+      "choice:(A) \\(\\frac{7}{50}\\)",
+      "choice:(B) \\(\\frac{7}{55}\\)",
+      "choice:(C) \\(\\frac{1}{10}\\)",
+      "choice:(D) \\(\\frac{5}{49}\\)",
       "answer:A"
     ],
     "tags": {},
     "metadata": { "title": "Outside Delhi Set-1 Q13" }
-  },
-  {
-    "id": 40,
-    "type": "quiz",
-    "question": [
-      "In the given figure, tangents PA and PB to the circle centred at O, from point P are perpendicular to each other. If PA = 5 cm, then length of AB is equal to",
-      "choice:(A) 5 cm",
-      "choice:(B) 5√2 cm",
-      "choice:(C) 2√5 cm",
-      "choice:(D) 10 cm",
-      "answer:C"
-    ],
-    "tags": {},
-    "metadata": { "title": "Outside Delhi Set-1 Q14 (figure-based)" }
   },
   {
     "id": 41,
@@ -568,8 +509,8 @@
     "question": [
       "XOYZ is a rectangle with vertices X(–3, 0), O(0, 0), Y(0, 4) and Z(x, y). The length of its each diagonal is",
       "choice:(A) 5 units",
-      "choice:(B) √5 units",
-      "choice:(C) x² + y² units",
+      "choice:(B) \\(\\sqrt{5}\\) units",
+      "choice:(C) \\(x^2 + y^2\\) units",
       "choice:(D) 4 units",
       "answer:A"
     ],
@@ -591,20 +532,6 @@
     "metadata": { "title": "Outside Delhi Set-1 Q16" }
   },
   {
-    "id": 43,
-    "type": "quiz",
-    "question": [
-      "In the given figure, AT is tangent to a circle centred at O. If ∠CAT = 40°, then ∠CBA is equal to",
-      "choice:(A) 70°",
-      "choice:(B) 50°",
-      "choice:(C) 65°",
-      "choice:(D) 40°",
-      "answer:D"
-    ],
-    "tags": {},
-    "metadata": { "title": "Outside Delhi Set-1 Q17 (figure-based)" }
-  },
-  {
     "id": 44,
     "type": "quiz",
     "question": [
@@ -618,30 +545,15 @@
     "tags": {},
     "metadata": { "title": "Outside Delhi Set-1 Q18" }
   },
-
-  {
-    "id": 45,
-    "type": "quiz",
-    "question": [
-      "In the given figure, PT is tangent to a circle with centre O. Chord PQ subtends an angle of 65° at the centre. The measure of ∠QPT is:",
-      "choice:(A) 65°",
-      "choice:(B) 57.5°",
-      "choice:(C) 67.5°",
-      "choice:(D) 32.5°",
-      "answer:C"
-    ],
-    "tags": {},
-    "metadata": { "title": "Outside Delhi Set-2 Q2 (figure-based)" }
-  },
   {
     "id": 46,
     "type": "quiz",
     "question": [
-      "If α and β are zeroes of the polynomial 2x² – 9x + 5, then value of α² + β² is",
-      "choice:(A) 1/4",
-      "choice:(B) 61/4",
+      "If \\(\\alpha\\) and \\(\\beta\\) are zeroes of the polynomial \\(2x^2 - 9x + 5\\), then value of \\(\\alpha^2 + \\beta^2\\) is",
+      "choice:(A) \\(\\frac{1}{4}\\)",
+      "choice:(B) \\(\\frac{61}{4}\\)",
       "choice:(C) 1",
-      "choice:(D) 71/4",
+      "choice:(D) \\(\\frac{71}{4}\\)",
       "answer:B"
     ],
     "tags": {},
@@ -651,7 +563,7 @@
     "id": 47,
     "type": "quiz",
     "question": [
-      "Value of k for which x = 2 is a solution of the equation 5x² – 4x + (2 + k) = 0, is",
+      "Value of k for which \\(x = 2\\) is a solution of the equation \\(5x^2 - 4x + (2 + k) = 0\\), is",
       "choice:(A) 10",
       "choice:(B) –10",
       "choice:(C) 14",
@@ -675,14 +587,13 @@
     "tags": {},
     "metadata": { "title": "Outside Delhi Set-2 Q15" }
   },
-
   {
     "id": 49,
     "type": "quiz",
     "question": [
-      "The distance between the points (a cos θ, –a sin θ) and (a sin θ, a cos θ) is",
+      "The distance between the points \\((a \\cos \\theta, -a \\sin \\theta)\\) and \\((a \\sin \\theta, a \\cos \\theta)\\) is",
       "choice:(A) a",
-      "choice:(B) a√2",
+      "choice:(B) \\(a\\sqrt{2}\\)",
       "choice:(C) 0",
       "choice:(D) 2a",
       "answer:B"
@@ -694,7 +605,7 @@
     "id": 50,
     "type": "quiz",
     "question": [
-      "The roots of the quadratic equation 4x² – 5x + 4 = 0 are",
+      "The roots of the quadratic equation \\(4x^2 - 5x + 4 = 0\\) are",
       "choice:(A) irrational",
       "choice:(B) rational and distinct",
       "choice:(C) not real",
@@ -708,7 +619,7 @@
     "id": 51,
     "type": "quiz",
     "question": [
-      "The common difference of an A.P. in which a₂₀ – a₁₅ = 20, is",
+      "The common difference of an A.P. in which \\(a_{20} - a_{15} = 20\\), is",
       "choice:(A) 4",
       "choice:(B) 5",
       "choice:(C) 4d",
@@ -722,10 +633,10 @@
     "id": 52,
     "type": "quiz",
     "question": [
-      "If a and b(a > b) are the zeroes of the polynomial –x² + 8x + 9, then (a – b) is equal to",
+      "If a and b\\((a > b)\\) are the zeroes of the polynomial \\(-x^2 + 8x + 9\\), then \\((a - b)\\) is equal to",
       "choice:(A) –10",
       "choice:(B) 10",
-      "choice:(C) ±10",
+      "choice:(C) \\(\\pm10\\)",
       "choice:(D) 8",
       "answer:C"
     ],
