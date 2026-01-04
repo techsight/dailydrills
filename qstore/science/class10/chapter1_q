@@ -222,5 +222,216 @@
     ],
     "tags": {},
     "metadata": { "title": "Delhi Set-1 Q16" }
+  },
+
+  {
+    "id": 17,
+    "type": "quiz",
+    "question": [
+      "In the following experimental setup of electrolysis of water, if P and Q are the gases collected in the test tubes enclosing the electrodes R and S, then select the option/options in which the matching is correct:",
+      "choice:(A) P–Oxygen gas, R–Anode",
+      "choice:(B) P–Hydrogen gas, R–Cathode",
+      "choice:(C) Q–Hydrogen gas, S–Cathode",
+      "choice:(D) Q–Oxygen gas, S–Anode",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q1" }
+  },
+  {
+    "id": 18,
+    "type": "quiz",
+    "question": [
+      "You have three aqueous solutions A, B and C as given below:\nA: Potassium nitrate\nB: Ammonium chloride\nC: Sodium carbonate\nThe ascending order of the pH of these solutions is:",
+      "choice:(A) A < B < C",
+      "choice:(B) B < C < A",
+      "choice:(C) C < A < B",
+      "choice:(D) B < A < C",
+      "answer:D"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q2" }
+  },
+  {
+    "id": 19,
+    "type": "quiz",
+    "question": [
+      "Select from the following a statement which is not true about burning of magnesium ribbon in air:",
+      "choice:(A) It burns with a dazzling white flame.",
+      "choice:(B) A white powder is formed on burning.",
+      "choice:(C) It is an endothermic reaction.",
+      "choice:(D) It is an example of a combination reaction.",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q3" }
+  },
+  {
+    "id": 20,
+    "type": "quiz",
+    "question": [
+      "A hydrocarbon which does not belong to the same homologous series of carbon compounds is",
+      "choice:(A) C4H10",
+      "choice:(B) C6H14",
+      "choice:(C) C7H14",
+      "choice:(D) C10H22",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q4" }
+  },
+  {
+    "id": 21,
+    "type": "quiz",
+    "question": [
+      "The colour of the solution observed after about 1 hour of placing iron nails in copper sulphate solution is",
+      "choice:(A) Blue",
+      "choice:(B) Pale green",
+      "choice:(C) Yellow",
+      "choice:(D) Reddish brown",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q5" }
+  },
+  {
+    "id": 22,
+    "type": "quiz",
+    "question": [
+      "Juice of tamarind turns blue litmus to red. It is because of the presence of a chemical compound called",
+      "choice:(A) Acetic acid",
+      "choice:(B) Methanoic acid",
+      "choice:(C) Oxalic acid",
+      "choice:(D) Tartaric acid",
+      "answer:D"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q6" }
+  },
+  {
+    "id": 23,
+    "type": "quiz",
+    "question": [
+      "The water of crystallisation is present in:\n(i) Bleaching Powder (ii) Plaster of Paris (iii) Washing Soda (iv) Baking Soda",
+      "choice:(A) (ii) and (iv)",
+      "choice:(B) (ii) and (iii)",
+      "choice:(C) (i) and (iii)",
+      "choice:(D) (i) and (iv)",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q7" }
+  },
+  {
+    "id": 24,
+    "type": "quiz",
+    "question": [
+      "A tall pea plant with round seeds (TTRR) is crossed with a short pea plant with wrinkled seeds (ttrr). The F₁ generation will be",
+      "choice:(A) 25% tall with round seeds",
+      "choice:(B) 50% tall with wrinkled seeds",
+      "choice:(C) 75% tall with wrinkled seeds",
+      "choice:(D) 100% tall with round seeds",
+      "answer:D"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q8" }
+  },
+  {
+    "id": 25,
+    "type": "quiz",
+    "question": [
+      "A pair of endocrine glands located in the human brain is",
+      "choice:(A) Parathyroid and Pituitary",
+      "choice:(B) Pineal and Thymus",
+      "choice:(C) Hypothalamus and Thymus",
+      "choice:(D) Hypothalamus and Pineal",
+      "answer:D"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q9" }
+  },
+  {
+    "id": 26,
+    "type": "quiz",
+    "question": [
+      "Select the option having correct matching of the organism given in Column I with the mode of reproduction in Column II:\nP. Leishmania\nQ. Spirogyra\nR. Planaria\nS. Plasmodium",
+      "choice:(A) P-4, Q-2, R-1, S-3",
+      "choice:(B) P-3, Q-4, R-5, S-2",
+      "choice:(C) P-3, Q-4, R-1, S-2",
+      "choice:(D) P-4, Q-3, R-2, S-1",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q10" }
+  },
+  {
+    "id": 27,
+    "type": "quiz",
+    "question": [
+      "The basic filtration unit of the excretory system in human beings is:",
+      "choice:(A) Nephron",
+      "choice:(B) Urethra",
+      "choice:(C) Neuron",
+      "choice:(D) Urinary bladder",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q11" }
+  },
+  {
+    "id": 28,
+    "type": "quiz",
+    "question": [
+      "In human alimentary canal, the digestive juice secreted by the gastric glands are",
+      "choice:(A) Bile, Trypsin, Pepsin",
+      "choice:(B) Hydrochloric acid, Pepsin, Mucus",
+      "choice:(C) Lipase, Bile, Mucus",
+      "choice:(D) Salivary amylase, Pepsin, Bile",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q12" }
+  },
+  {
+    "id": 29,
+    "type": "quiz",
+    "question": [
+      "The part of human eye which controls the amount of light entering into it.",
+      "choice:(A) Iris",
+      "choice:(B) Cornea",
+      "choice:(C) Ciliary muscles",
+      "choice:(D) Pupil",
+      "answer:D"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q14" }
+  },
+  {
+    "id": 30,
+    "type": "quiz",
+    "question": [
+      "Consider the following food chain:\nGrass → Grasshopper → Frog → Snake → Eagle\nIf the amount of energy available at third trophic level is 50 kJ, the available energy at the producer level was:",
+      "choice:(A) 0.5 kJ",
+      "choice:(B) 5 kJ",
+      "choice:(C) 500 kJ",
+      "choice:(D) 5000 kJ",
+      "answer:D"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q15" }
+  },
+  {
+    "id": 31,
+    "type": "quiz",
+    "question": [
+      "The incorrect statement about ozone is",
+      "choice:(A) It is a deadly poisonous gas.",
+      "choice:(B) It shields the surface of the earth from UV radiation from sun.",
+      "choice:(C) It is used as a refrigerant and in fire-extinguishers.",
+      "choice:(D) It is formed by combining oxygen molecule with free oxygen atom.",
+      "answer:C"
+    ],
+    "tags": {},
+    "metadata": { "title": "Outside Delhi Set-1 Q16" }
   }
 ]
